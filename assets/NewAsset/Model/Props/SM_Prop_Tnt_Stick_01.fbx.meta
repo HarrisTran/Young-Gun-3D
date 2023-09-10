@@ -1,0 +1,125 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "2ff9a299-c7dc-4bb0-a5a3-c6da0f388a18",
+  "files": [],
+  "subMetas": {
+    "c76ac": {
+      "importer": "gltf-mesh",
+      "uuid": "2ff9a299-c7dc-4bb0-a5a3-c6da0f388a18@c76ac",
+      "displayName": "",
+      "id": "c76ac",
+      "name": "SM_Prop_Tnt_Stick_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "2ff9a299-c7dc-4bb0-a5a3-c6da0f388a18@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "2ff9a299-c7dc-4bb0-a5a3-c6da0f388a18@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "2ff9a299-c7dc-4bb0-a5a3-c6da0f388a18@d63f7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "2ff9a299-c7dc-4bb0-a5a3-c6da0f388a18@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "846e2": {
+      "importer": "gltf-scene",
+      "uuid": "2ff9a299-c7dc-4bb0-a5a3-c6da0f388a18@846e2",
+      "displayName": "",
+      "id": "846e2",
+      "name": "SM_Prop_Tnt_Stick_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "uri": "2ff9a299-c7dc-4bb0-a5a3-c6da0f388a18@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "2ff9a299-c7dc-4bb0-a5a3-c6da0f388a18@846e2",
+    "assetFinder": {
+      "meshes": [
+        "2ff9a299-c7dc-4bb0-a5a3-c6da0f388a18@c76ac"
+      ],
+      "skeletons": [],
+      "textures": [
+        "2ff9a299-c7dc-4bb0-a5a3-c6da0f388a18@ae3ea"
+      ],
+      "materials": [
+        "2ff9a299-c7dc-4bb0-a5a3-c6da0f388a18@48f8a"
+      ],
+      "scenes": [
+        "2ff9a299-c7dc-4bb0-a5a3-c6da0f388a18@846e2"
+      ]
+    }
+  }
+}

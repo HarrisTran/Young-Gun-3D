@@ -1,0 +1,125 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "f16fb5ff-4933-4ab0-bf25-2d0449efcde4",
+  "files": [],
+  "subMetas": {
+    "82d68": {
+      "importer": "gltf-mesh",
+      "uuid": "f16fb5ff-4933-4ab0-bf25-2d0449efcde4@82d68",
+      "displayName": "",
+      "id": "82d68",
+      "name": "SM_Env_Mound_Flattop_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "f16fb5ff-4933-4ab0-bf25-2d0449efcde4@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "f16fb5ff-4933-4ab0-bf25-2d0449efcde4@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "f16fb5ff-4933-4ab0-bf25-2d0449efcde4@d63f7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "f16fb5ff-4933-4ab0-bf25-2d0449efcde4@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c09d7": {
+      "importer": "gltf-scene",
+      "uuid": "f16fb5ff-4933-4ab0-bf25-2d0449efcde4@c09d7",
+      "displayName": "",
+      "id": "c09d7",
+      "name": "SM_Env_Mound_Flattop_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "uri": "f16fb5ff-4933-4ab0-bf25-2d0449efcde4@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "f16fb5ff-4933-4ab0-bf25-2d0449efcde4@c09d7",
+    "assetFinder": {
+      "meshes": [
+        "f16fb5ff-4933-4ab0-bf25-2d0449efcde4@82d68"
+      ],
+      "skeletons": [],
+      "textures": [
+        "f16fb5ff-4933-4ab0-bf25-2d0449efcde4@ae3ea"
+      ],
+      "materials": [
+        "f16fb5ff-4933-4ab0-bf25-2d0449efcde4@48f8a"
+      ],
+      "scenes": [
+        "f16fb5ff-4933-4ab0-bf25-2d0449efcde4@c09d7"
+      ]
+    }
+  }
+}

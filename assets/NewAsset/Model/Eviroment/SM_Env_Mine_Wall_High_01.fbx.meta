@@ -1,0 +1,125 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "aceb1137-b8ae-44e6-b641-09b0c37f814a",
+  "files": [],
+  "subMetas": {
+    "5c00a": {
+      "importer": "gltf-mesh",
+      "uuid": "aceb1137-b8ae-44e6-b641-09b0c37f814a@5c00a",
+      "displayName": "",
+      "id": "5c00a",
+      "name": "SM_Env_Mine_Wall_High_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "aceb1137-b8ae-44e6-b641-09b0c37f814a@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "aceb1137-b8ae-44e6-b641-09b0c37f814a@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "aceb1137-b8ae-44e6-b641-09b0c37f814a@d63f7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "aceb1137-b8ae-44e6-b641-09b0c37f814a@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0f5ff": {
+      "importer": "gltf-scene",
+      "uuid": "aceb1137-b8ae-44e6-b641-09b0c37f814a@0f5ff",
+      "displayName": "",
+      "id": "0f5ff",
+      "name": "SM_Env_Mine_Wall_High_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "uri": "aceb1137-b8ae-44e6-b641-09b0c37f814a@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "aceb1137-b8ae-44e6-b641-09b0c37f814a@0f5ff",
+    "assetFinder": {
+      "meshes": [
+        "aceb1137-b8ae-44e6-b641-09b0c37f814a@5c00a"
+      ],
+      "skeletons": [],
+      "textures": [
+        "aceb1137-b8ae-44e6-b641-09b0c37f814a@ae3ea"
+      ],
+      "materials": [
+        "aceb1137-b8ae-44e6-b641-09b0c37f814a@48f8a"
+      ],
+      "scenes": [
+        "aceb1137-b8ae-44e6-b641-09b0c37f814a@0f5ff"
+      ]
+    }
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "3308aa8a-84b4-4d75-bd7b-f548902e06ab",
+  "files": [],
+  "subMetas": {
+    "577cf": {
+      "importer": "gltf-mesh",
+      "uuid": "3308aa8a-84b4-4d75-bd7b-f548902e06ab@577cf",
+      "displayName": "",
+      "id": "577cf",
+      "name": "SM_Wep_Rifle_Bayonet_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4f879": {
+      "importer": "gltf-embeded-image",
+      "uuid": "3308aa8a-84b4-4d75-bd7b-f548902e06ab@4f879",
+      "displayName": "",
+      "id": "4f879",
+      "name": "file866.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "098c8": {
+      "importer": "texture",
+      "uuid": "3308aa8a-84b4-4d75-bd7b-f548902e06ab@098c8",
+      "displayName": "",
+      "id": "098c8",
+      "name": "file866.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "3308aa8a-84b4-4d75-bd7b-f548902e06ab@4f879"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "72ccd": {
+      "importer": "gltf-material",
+      "uuid": "3308aa8a-84b4-4d75-bd7b-f548902e06ab@72ccd",
+      "displayName": "",
+      "id": "72ccd",
+      "name": "Frontier4.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "29d5a": {
+      "importer": "gltf-scene",
+      "uuid": "3308aa8a-84b4-4d75-bd7b-f548902e06ab@29d5a",
+      "displayName": "",
+      "id": "29d5a",
+      "name": "SM_Wep_Rifle_Bayonet_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file866",
+        "uri": "3308aa8a-84b4-4d75-bd7b-f548902e06ab@4f879"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "3308aa8a-84b4-4d75-bd7b-f548902e06ab@29d5a",
+    "assetFinder": {
+      "meshes": [
+        "3308aa8a-84b4-4d75-bd7b-f548902e06ab@577cf"
+      ],
+      "skeletons": [],
+      "textures": [
+        "3308aa8a-84b4-4d75-bd7b-f548902e06ab@098c8"
+      ],
+      "materials": [
+        "3308aa8a-84b4-4d75-bd7b-f548902e06ab@72ccd"
+      ],
+      "scenes": [
+        "3308aa8a-84b4-4d75-bd7b-f548902e06ab@29d5a"
+      ]
+    }
+  }
+}

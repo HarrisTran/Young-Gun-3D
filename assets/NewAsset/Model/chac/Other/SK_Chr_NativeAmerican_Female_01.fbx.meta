@@ -1,0 +1,144 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "39874382-7656-4e0e-ae92-a94c8a94819f",
+  "files": [],
+  "subMetas": {
+    "2eb75": {
+      "importer": "gltf-mesh",
+      "uuid": "39874382-7656-4e0e-ae92-a94c8a94819f@2eb75",
+      "displayName": "",
+      "id": "2eb75",
+      "name": "SK_Chr_NativeAmerican_Female_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "39874382-7656-4e0e-ae92-a94c8a94819f@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 48
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "39874382-7656-4e0e-ae92-a94c8a94819f@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "39874382-7656-4e0e-ae92-a94c8a94819f@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "39874382-7656-4e0e-ae92-a94c8a94819f@d63f7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "39874382-7656-4e0e-ae92-a94c8a94819f@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "08e30": {
+      "importer": "gltf-scene",
+      "uuid": "39874382-7656-4e0e-ae92-a94c8a94819f@08e30",
+      "displayName": "",
+      "id": "08e30",
+      "name": "SK_Chr_NativeAmerican_Female_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "uri": "39874382-7656-4e0e-ae92-a94c8a94819f@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "39874382-7656-4e0e-ae92-a94c8a94819f@08e30",
+    "assetFinder": {
+      "meshes": [
+        "39874382-7656-4e0e-ae92-a94c8a94819f@2eb75"
+      ],
+      "skeletons": [
+        "39874382-7656-4e0e-ae92-a94c8a94819f@438fe"
+      ],
+      "textures": [
+        "39874382-7656-4e0e-ae92-a94c8a94819f@ae3ea"
+      ],
+      "materials": [
+        "39874382-7656-4e0e-ae92-a94c8a94819f@48f8a"
+      ],
+      "scenes": [
+        "39874382-7656-4e0e-ae92-a94c8a94819f@08e30"
+      ]
+    }
+  }
+}

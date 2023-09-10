@@ -1,0 +1,143 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "4cf03b84-d404-4fcc-876a-138986a78dd5",
+  "files": [],
+  "subMetas": {
+    "81511": {
+      "importer": "gltf-scene",
+      "uuid": "4cf03b84-d404-4fcc-876a-138986a78dd5@81511",
+      "displayName": "",
+      "id": "81511",
+      "name": "SM_Bld_Mexican_Wall_Corner_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "33e89": {
+      "importer": "gltf-mesh",
+      "uuid": "4cf03b84-d404-4fcc-876a-138986a78dd5@33e89",
+      "displayName": "",
+      "id": "33e89",
+      "name": "SM_Bld_Mexican_Wall_Corner_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "018c6": {
+      "importer": "gltf-mesh",
+      "uuid": "4cf03b84-d404-4fcc-876a-138986a78dd5@018c6",
+      "displayName": "",
+      "id": "018c6",
+      "name": "SM_Bld_Mexican_Wall_Corner_01_Walkway.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "4cf03b84-d404-4fcc-876a-138986a78dd5@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "4cf03b84-d404-4fcc-876a-138986a78dd5@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "4cf03b84-d404-4fcc-876a-138986a78dd5@d63f7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "4cf03b84-d404-4fcc-876a-138986a78dd5@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "uri": "4cf03b84-d404-4fcc-876a-138986a78dd5@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "4cf03b84-d404-4fcc-876a-138986a78dd5@81511",
+    "assetFinder": {
+      "meshes": [
+        "4cf03b84-d404-4fcc-876a-138986a78dd5@33e89",
+        "4cf03b84-d404-4fcc-876a-138986a78dd5@018c6"
+      ],
+      "skeletons": [],
+      "textures": [
+        "4cf03b84-d404-4fcc-876a-138986a78dd5@ae3ea"
+      ],
+      "materials": [
+        "4cf03b84-d404-4fcc-876a-138986a78dd5@48f8a"
+      ],
+      "scenes": [
+        "4cf03b84-d404-4fcc-876a-138986a78dd5@81511"
+      ]
+    }
+  }
+}

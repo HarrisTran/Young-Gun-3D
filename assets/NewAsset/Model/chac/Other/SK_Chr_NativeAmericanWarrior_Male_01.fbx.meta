@@ -1,0 +1,144 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "ef2a2d72-8861-44be-a122-a5ca8e059ecf",
+  "files": [],
+  "subMetas": {
+    "9528a": {
+      "importer": "gltf-mesh",
+      "uuid": "ef2a2d72-8861-44be-a122-a5ca8e059ecf@9528a",
+      "displayName": "",
+      "id": "9528a",
+      "name": "SK_Chr_NativeAmericanWarrior_Male_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "ef2a2d72-8861-44be-a122-a5ca8e059ecf@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 48
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "ef2a2d72-8861-44be-a122-a5ca8e059ecf@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "ef2a2d72-8861-44be-a122-a5ca8e059ecf@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "ef2a2d72-8861-44be-a122-a5ca8e059ecf@d63f7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "ef2a2d72-8861-44be-a122-a5ca8e059ecf@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a9f38": {
+      "importer": "gltf-scene",
+      "uuid": "ef2a2d72-8861-44be-a122-a5ca8e059ecf@a9f38",
+      "displayName": "",
+      "id": "a9f38",
+      "name": "SK_Chr_NativeAmericanWarrior_Male_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "uri": "ef2a2d72-8861-44be-a122-a5ca8e059ecf@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "ef2a2d72-8861-44be-a122-a5ca8e059ecf@a9f38",
+    "assetFinder": {
+      "meshes": [
+        "ef2a2d72-8861-44be-a122-a5ca8e059ecf@9528a"
+      ],
+      "skeletons": [
+        "ef2a2d72-8861-44be-a122-a5ca8e059ecf@438fe"
+      ],
+      "textures": [
+        "ef2a2d72-8861-44be-a122-a5ca8e059ecf@ae3ea"
+      ],
+      "materials": [
+        "ef2a2d72-8861-44be-a122-a5ca8e059ecf@48f8a"
+      ],
+      "scenes": [
+        "ef2a2d72-8861-44be-a122-a5ca8e059ecf@a9f38"
+      ]
+    }
+  }
+}

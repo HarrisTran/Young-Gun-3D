@@ -1,0 +1,125 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "47e69288-b5b7-4f1c-acde-cb9c53ea2e9f",
+  "files": [],
+  "subMetas": {
+    "f16e4": {
+      "importer": "gltf-mesh",
+      "uuid": "47e69288-b5b7-4f1c-acde-cb9c53ea2e9f@f16e4",
+      "displayName": "",
+      "id": "f16e4",
+      "name": "SM_Prop_Alcohol_Barrel_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "47e69288-b5b7-4f1c-acde-cb9c53ea2e9f@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "47e69288-b5b7-4f1c-acde-cb9c53ea2e9f@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "47e69288-b5b7-4f1c-acde-cb9c53ea2e9f@d63f7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "47e69288-b5b7-4f1c-acde-cb9c53ea2e9f@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "efd33": {
+      "importer": "gltf-scene",
+      "uuid": "47e69288-b5b7-4f1c-acde-cb9c53ea2e9f@efd33",
+      "displayName": "",
+      "id": "efd33",
+      "name": "SM_Prop_Alcohol_Barrel_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "uri": "47e69288-b5b7-4f1c-acde-cb9c53ea2e9f@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "47e69288-b5b7-4f1c-acde-cb9c53ea2e9f@efd33",
+    "assetFinder": {
+      "meshes": [
+        "47e69288-b5b7-4f1c-acde-cb9c53ea2e9f@f16e4"
+      ],
+      "skeletons": [],
+      "textures": [
+        "47e69288-b5b7-4f1c-acde-cb9c53ea2e9f@ae3ea"
+      ],
+      "materials": [
+        "47e69288-b5b7-4f1c-acde-cb9c53ea2e9f@48f8a"
+      ],
+      "scenes": [
+        "47e69288-b5b7-4f1c-acde-cb9c53ea2e9f@efd33"
+      ]
+    }
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "103d2512-8296-4d63-a38d-d490b53bfc3c",
+  "files": [],
+  "subMetas": {
+    "8cda1": {
+      "importer": "gltf-mesh",
+      "uuid": "103d2512-8296-4d63-a38d-d490b53bfc3c@8cda1",
+      "displayName": "",
+      "id": "8cda1",
+      "name": "SM_Prop_Gold_Ingot_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "103d2512-8296-4d63-a38d-d490b53bfc3c@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "103d2512-8296-4d63-a38d-d490b53bfc3c@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "103d2512-8296-4d63-a38d-d490b53bfc3c@d63f7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "103d2512-8296-4d63-a38d-d490b53bfc3c@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fe3d4": {
+      "importer": "gltf-scene",
+      "uuid": "103d2512-8296-4d63-a38d-d490b53bfc3c@fe3d4",
+      "displayName": "",
+      "id": "fe3d4",
+      "name": "SM_Prop_Gold_Ingot_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "uri": "103d2512-8296-4d63-a38d-d490b53bfc3c@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "103d2512-8296-4d63-a38d-d490b53bfc3c@fe3d4",
+    "assetFinder": {
+      "meshes": [
+        "103d2512-8296-4d63-a38d-d490b53bfc3c@8cda1"
+      ],
+      "skeletons": [],
+      "textures": [
+        "103d2512-8296-4d63-a38d-d490b53bfc3c@ae3ea"
+      ],
+      "materials": [
+        "103d2512-8296-4d63-a38d-d490b53bfc3c@48f8a"
+      ],
+      "scenes": [
+        "103d2512-8296-4d63-a38d-d490b53bfc3c@fe3d4"
+      ]
+    }
+  }
+}

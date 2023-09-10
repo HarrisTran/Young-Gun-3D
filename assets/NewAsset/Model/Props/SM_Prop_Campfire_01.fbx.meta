@@ -1,0 +1,126 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "ebc5e0b9-8537-4b89-a1fa-5028ad0670e0",
+  "files": [],
+  "subMetas": {
+    "0752a": {
+      "importer": "gltf-mesh",
+      "uuid": "ebc5e0b9-8537-4b89-a1fa-5028ad0670e0@0752a",
+      "displayName": "",
+      "id": "0752a",
+      "name": "SM_Prop_Campfire_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "ebc5e0b9-8537-4b89-a1fa-5028ad0670e0@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "ebc5e0b9-8537-4b89-a1fa-5028ad0670e0@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "ebc5e0b9-8537-4b89-a1fa-5028ad0670e0@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a2020": {
+      "importer": "gltf-scene",
+      "uuid": "ebc5e0b9-8537-4b89-a1fa-5028ad0670e0@a2020",
+      "displayName": "",
+      "id": "a2020",
+      "name": "SM_Prop_Campfire_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "remap": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_01_A.png",
+        "uri": "ebc5e0b9-8537-4b89-a1fa-5028ad0670e0@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "ebc5e0b9-8537-4b89-a1fa-5028ad0670e0@a2020",
+    "assetFinder": {
+      "meshes": [
+        "ebc5e0b9-8537-4b89-a1fa-5028ad0670e0@0752a"
+      ],
+      "skeletons": [],
+      "textures": [
+        "ebc5e0b9-8537-4b89-a1fa-5028ad0670e0@ae3ea"
+      ],
+      "materials": [
+        "ebc5e0b9-8537-4b89-a1fa-5028ad0670e0@48f8a"
+      ],
+      "scenes": [
+        "ebc5e0b9-8537-4b89-a1fa-5028ad0670e0@a2020"
+      ]
+    }
+  }
+}

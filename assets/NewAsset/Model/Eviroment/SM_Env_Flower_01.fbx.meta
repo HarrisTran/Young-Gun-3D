@@ -1,0 +1,125 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "12f7137e-6dca-48c3-bc83-8546a4f68842",
+  "files": [],
+  "subMetas": {
+    "f217a": {
+      "importer": "gltf-mesh",
+      "uuid": "12f7137e-6dca-48c3-bc83-8546a4f68842@f217a",
+      "displayName": "",
+      "id": "f217a",
+      "name": "SM_Env_Flower_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "12f7137e-6dca-48c3-bc83-8546a4f68842@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "12f7137e-6dca-48c3-bc83-8546a4f68842@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "12f7137e-6dca-48c3-bc83-8546a4f68842@d63f7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "12f7137e-6dca-48c3-bc83-8546a4f68842@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e3754": {
+      "importer": "gltf-scene",
+      "uuid": "12f7137e-6dca-48c3-bc83-8546a4f68842@e3754",
+      "displayName": "",
+      "id": "e3754",
+      "name": "SM_Env_Flower_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "uri": "12f7137e-6dca-48c3-bc83-8546a4f68842@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "12f7137e-6dca-48c3-bc83-8546a4f68842@e3754",
+    "assetFinder": {
+      "meshes": [
+        "12f7137e-6dca-48c3-bc83-8546a4f68842@f217a"
+      ],
+      "skeletons": [],
+      "textures": [
+        "12f7137e-6dca-48c3-bc83-8546a4f68842@ae3ea"
+      ],
+      "materials": [
+        "12f7137e-6dca-48c3-bc83-8546a4f68842@48f8a"
+      ],
+      "scenes": [
+        "12f7137e-6dca-48c3-bc83-8546a4f68842@e3754"
+      ]
+    }
+  }
+}

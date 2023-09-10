@@ -1,0 +1,126 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "c2d44a20-f90e-4344-8d36-d3bf21b1fbbf",
+  "files": [],
+  "subMetas": {
+    "ef8fd": {
+      "importer": "gltf-mesh",
+      "uuid": "c2d44a20-f90e-4344-8d36-d3bf21b1fbbf@ef8fd",
+      "displayName": "",
+      "id": "ef8fd",
+      "name": "SM_Env_River_Corner_L_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c2d44a20-f90e-4344-8d36-d3bf21b1fbbf@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "c2d44a20-f90e-4344-8d36-d3bf21b1fbbf@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_01_B.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "c2d44a20-f90e-4344-8d36-d3bf21b1fbbf@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "33e3f": {
+      "importer": "gltf-scene",
+      "uuid": "c2d44a20-f90e-4344-8d36-d3bf21b1fbbf@33e3f",
+      "displayName": "",
+      "id": "33e3f",
+      "name": "SM_Env_River_Corner_L_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "remap": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_01_B.png",
+        "uri": "c2d44a20-f90e-4344-8d36-d3bf21b1fbbf@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "c2d44a20-f90e-4344-8d36-d3bf21b1fbbf@33e3f",
+    "assetFinder": {
+      "meshes": [
+        "c2d44a20-f90e-4344-8d36-d3bf21b1fbbf@ef8fd"
+      ],
+      "skeletons": [],
+      "textures": [
+        "c2d44a20-f90e-4344-8d36-d3bf21b1fbbf@ae3ea"
+      ],
+      "materials": [
+        "c2d44a20-f90e-4344-8d36-d3bf21b1fbbf@48f8a"
+      ],
+      "scenes": [
+        "c2d44a20-f90e-4344-8d36-d3bf21b1fbbf@33e3f"
+      ]
+    }
+  }
+}

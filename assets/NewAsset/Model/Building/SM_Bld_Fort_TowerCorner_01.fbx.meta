@@ -1,0 +1,180 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "5abe2857-470b-48ec-b8f5-a4bda9babd65",
+  "files": [],
+  "subMetas": {
+    "69745": {
+      "importer": "gltf-mesh",
+      "uuid": "5abe2857-470b-48ec-b8f5-a4bda9babd65@69745",
+      "displayName": "",
+      "id": "69745",
+      "name": "SM_Bld_Fort_TowerCorner_01_Wall.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1d7f3": {
+      "importer": "gltf-mesh",
+      "uuid": "5abe2857-470b-48ec-b8f5-a4bda9babd65@1d7f3",
+      "displayName": "",
+      "id": "1d7f3",
+      "name": "SM_Bld_Fort_TowerCorner_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c8247": {
+      "importer": "gltf-mesh",
+      "uuid": "5abe2857-470b-48ec-b8f5-a4bda9babd65@c8247",
+      "displayName": "",
+      "id": "c8247",
+      "name": "SM_Bld_Fort_TowerCorner_01_Walkway_02.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "609aa": {
+      "importer": "gltf-mesh",
+      "uuid": "5abe2857-470b-48ec-b8f5-a4bda9babd65@609aa",
+      "displayName": "",
+      "id": "609aa",
+      "name": "SM_Bld_Fort_TowerCorner_01_Walkway_01.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "5abe2857-470b-48ec-b8f5-a4bda9babd65@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "5abe2857-470b-48ec-b8f5-a4bda9babd65@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "5abe2857-470b-48ec-b8f5-a4bda9babd65@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e04e3": {
+      "importer": "gltf-scene",
+      "uuid": "5abe2857-470b-48ec-b8f5-a4bda9babd65@e04e3",
+      "displayName": "",
+      "id": "e04e3",
+      "name": "SM_Bld_Fort_TowerCorner_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "remap": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_01_A.png",
+        "uri": "5abe2857-470b-48ec-b8f5-a4bda9babd65@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "5abe2857-470b-48ec-b8f5-a4bda9babd65@e04e3",
+    "assetFinder": {
+      "meshes": [
+        "5abe2857-470b-48ec-b8f5-a4bda9babd65@1d7f3",
+        "5abe2857-470b-48ec-b8f5-a4bda9babd65@69745",
+        "5abe2857-470b-48ec-b8f5-a4bda9babd65@c8247",
+        "5abe2857-470b-48ec-b8f5-a4bda9babd65@609aa"
+      ],
+      "skeletons": [],
+      "textures": [
+        "5abe2857-470b-48ec-b8f5-a4bda9babd65@ae3ea"
+      ],
+      "materials": [
+        "5abe2857-470b-48ec-b8f5-a4bda9babd65@48f8a"
+      ],
+      "scenes": [
+        "5abe2857-470b-48ec-b8f5-a4bda9babd65@e04e3"
+      ]
+    }
+  }
+}

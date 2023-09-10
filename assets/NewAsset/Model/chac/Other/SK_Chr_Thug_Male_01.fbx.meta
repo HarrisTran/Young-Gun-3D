@@ -1,0 +1,144 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "2cfb99c7-548f-4a72-b44a-162589b003f0",
+  "files": [],
+  "subMetas": {
+    "22da7": {
+      "importer": "gltf-mesh",
+      "uuid": "2cfb99c7-548f-4a72-b44a-162589b003f0@22da7",
+      "displayName": "",
+      "id": "22da7",
+      "name": "SK_Chr_Thug_Male_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "2cfb99c7-548f-4a72-b44a-162589b003f0@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 48
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "2cfb99c7-548f-4a72-b44a-162589b003f0@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "2cfb99c7-548f-4a72-b44a-162589b003f0@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "2cfb99c7-548f-4a72-b44a-162589b003f0@d63f7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "2cfb99c7-548f-4a72-b44a-162589b003f0@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fa383": {
+      "importer": "gltf-scene",
+      "uuid": "2cfb99c7-548f-4a72-b44a-162589b003f0@fa383",
+      "displayName": "",
+      "id": "fa383",
+      "name": "SK_Chr_Thug_Male_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "uri": "2cfb99c7-548f-4a72-b44a-162589b003f0@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "2cfb99c7-548f-4a72-b44a-162589b003f0@fa383",
+    "assetFinder": {
+      "meshes": [
+        "2cfb99c7-548f-4a72-b44a-162589b003f0@22da7"
+      ],
+      "skeletons": [
+        "2cfb99c7-548f-4a72-b44a-162589b003f0@438fe"
+      ],
+      "textures": [
+        "2cfb99c7-548f-4a72-b44a-162589b003f0@ae3ea"
+      ],
+      "materials": [
+        "2cfb99c7-548f-4a72-b44a-162589b003f0@48f8a"
+      ],
+      "scenes": [
+        "2cfb99c7-548f-4a72-b44a-162589b003f0@fa383"
+      ]
+    }
+  }
+}

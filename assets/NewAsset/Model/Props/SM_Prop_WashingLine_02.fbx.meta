@@ -1,0 +1,125 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "b2066f8f-fc17-404a-b007-b85aaaa52867",
+  "files": [],
+  "subMetas": {
+    "cbe78": {
+      "importer": "gltf-mesh",
+      "uuid": "b2066f8f-fc17-404a-b007-b85aaaa52867@cbe78",
+      "displayName": "",
+      "id": "cbe78",
+      "name": "SM_Prop_WashingLine_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "b2066f8f-fc17-404a-b007-b85aaaa52867@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "b2066f8f-fc17-404a-b007-b85aaaa52867@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "b2066f8f-fc17-404a-b007-b85aaaa52867@d63f7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "b2066f8f-fc17-404a-b007-b85aaaa52867@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5d086": {
+      "importer": "gltf-scene",
+      "uuid": "b2066f8f-fc17-404a-b007-b85aaaa52867@5d086",
+      "displayName": "",
+      "id": "5d086",
+      "name": "SM_Prop_WashingLine_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "uri": "b2066f8f-fc17-404a-b007-b85aaaa52867@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "b2066f8f-fc17-404a-b007-b85aaaa52867@5d086",
+    "assetFinder": {
+      "meshes": [
+        "b2066f8f-fc17-404a-b007-b85aaaa52867@cbe78"
+      ],
+      "skeletons": [],
+      "textures": [
+        "b2066f8f-fc17-404a-b007-b85aaaa52867@ae3ea"
+      ],
+      "materials": [
+        "b2066f8f-fc17-404a-b007-b85aaaa52867@48f8a"
+      ],
+      "scenes": [
+        "b2066f8f-fc17-404a-b007-b85aaaa52867@5d086"
+      ]
+    }
+  }
+}

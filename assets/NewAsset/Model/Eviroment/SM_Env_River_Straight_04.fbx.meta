@@ -1,0 +1,125 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "b689ead4-4275-4661-ad7c-ae4681880876",
+  "files": [],
+  "subMetas": {
+    "b6441": {
+      "importer": "gltf-mesh",
+      "uuid": "b689ead4-4275-4661-ad7c-ae4681880876@b6441",
+      "displayName": "",
+      "id": "b6441",
+      "name": "SM_Env_River_Straight_04.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "b689ead4-4275-4661-ad7c-ae4681880876@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "b689ead4-4275-4661-ad7c-ae4681880876@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "b689ead4-4275-4661-ad7c-ae4681880876@d63f7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "b689ead4-4275-4661-ad7c-ae4681880876@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d3290": {
+      "importer": "gltf-scene",
+      "uuid": "b689ead4-4275-4661-ad7c-ae4681880876@d3290",
+      "displayName": "",
+      "id": "d3290",
+      "name": "SM_Env_River_Straight_04.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "uri": "b689ead4-4275-4661-ad7c-ae4681880876@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "b689ead4-4275-4661-ad7c-ae4681880876@d3290",
+    "assetFinder": {
+      "meshes": [
+        "b689ead4-4275-4661-ad7c-ae4681880876@b6441"
+      ],
+      "skeletons": [],
+      "textures": [
+        "b689ead4-4275-4661-ad7c-ae4681880876@ae3ea"
+      ],
+      "materials": [
+        "b689ead4-4275-4661-ad7c-ae4681880876@48f8a"
+      ],
+      "scenes": [
+        "b689ead4-4275-4661-ad7c-ae4681880876@d3290"
+      ]
+    }
+  }
+}

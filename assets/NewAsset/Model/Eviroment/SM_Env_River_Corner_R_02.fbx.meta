@@ -1,0 +1,125 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "f91a8e5d-2232-4736-a4bb-b20173e4a8a5",
+  "files": [],
+  "subMetas": {
+    "df129": {
+      "importer": "gltf-mesh",
+      "uuid": "f91a8e5d-2232-4736-a4bb-b20173e4a8a5@df129",
+      "displayName": "",
+      "id": "df129",
+      "name": "SM_Env_River_Corner_R_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "f91a8e5d-2232-4736-a4bb-b20173e4a8a5@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "f91a8e5d-2232-4736-a4bb-b20173e4a8a5@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "f91a8e5d-2232-4736-a4bb-b20173e4a8a5@d63f7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "f91a8e5d-2232-4736-a4bb-b20173e4a8a5@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7c22b": {
+      "importer": "gltf-scene",
+      "uuid": "f91a8e5d-2232-4736-a4bb-b20173e4a8a5@7c22b",
+      "displayName": "",
+      "id": "7c22b",
+      "name": "SM_Env_River_Corner_R_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "uri": "f91a8e5d-2232-4736-a4bb-b20173e4a8a5@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "f91a8e5d-2232-4736-a4bb-b20173e4a8a5@7c22b",
+    "assetFinder": {
+      "meshes": [
+        "f91a8e5d-2232-4736-a4bb-b20173e4a8a5@df129"
+      ],
+      "skeletons": [],
+      "textures": [
+        "f91a8e5d-2232-4736-a4bb-b20173e4a8a5@ae3ea"
+      ],
+      "materials": [
+        "f91a8e5d-2232-4736-a4bb-b20173e4a8a5@48f8a"
+      ],
+      "scenes": [
+        "f91a8e5d-2232-4736-a4bb-b20173e4a8a5@7c22b"
+      ]
+    }
+  }
+}

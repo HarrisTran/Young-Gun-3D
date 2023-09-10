@@ -1,0 +1,125 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "7895675f-7687-4e1b-a804-68baa60f717a",
+  "files": [],
+  "subMetas": {
+    "19648": {
+      "importer": "gltf-mesh",
+      "uuid": "7895675f-7687-4e1b-a804-68baa60f717a@19648",
+      "displayName": "",
+      "id": "19648",
+      "name": "SM_Prop_Quarry_Machine_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "7895675f-7687-4e1b-a804-68baa60f717a@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "7895675f-7687-4e1b-a804-68baa60f717a@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "7895675f-7687-4e1b-a804-68baa60f717a@d63f7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "7895675f-7687-4e1b-a804-68baa60f717a@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8c4f9": {
+      "importer": "gltf-scene",
+      "uuid": "7895675f-7687-4e1b-a804-68baa60f717a@8c4f9",
+      "displayName": "",
+      "id": "8c4f9",
+      "name": "SM_Prop_Quarry_Machine_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "uri": "7895675f-7687-4e1b-a804-68baa60f717a@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "7895675f-7687-4e1b-a804-68baa60f717a@8c4f9",
+    "assetFinder": {
+      "meshes": [
+        "7895675f-7687-4e1b-a804-68baa60f717a@19648"
+      ],
+      "skeletons": [],
+      "textures": [
+        "7895675f-7687-4e1b-a804-68baa60f717a@ae3ea"
+      ],
+      "materials": [
+        "7895675f-7687-4e1b-a804-68baa60f717a@48f8a"
+      ],
+      "scenes": [
+        "7895675f-7687-4e1b-a804-68baa60f717a@8c4f9"
+      ]
+    }
+  }
+}

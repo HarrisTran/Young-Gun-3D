@@ -1,0 +1,125 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "da842dfa-3ee2-45e3-a1e6-1a11e9e740d6",
+  "files": [],
+  "subMetas": {
+    "2c332": {
+      "importer": "gltf-mesh",
+      "uuid": "da842dfa-3ee2-45e3-a1e6-1a11e9e740d6@2c332",
+      "displayName": "",
+      "id": "2c332",
+      "name": "SM_Env_Cactus_Large_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4f879": {
+      "importer": "gltf-embeded-image",
+      "uuid": "da842dfa-3ee2-45e3-a1e6-1a11e9e740d6@4f879",
+      "displayName": "",
+      "id": "4f879",
+      "name": "file866.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "098c8": {
+      "importer": "texture",
+      "uuid": "da842dfa-3ee2-45e3-a1e6-1a11e9e740d6@098c8",
+      "displayName": "",
+      "id": "098c8",
+      "name": "file866.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "da842dfa-3ee2-45e3-a1e6-1a11e9e740d6@4f879"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "72ccd": {
+      "importer": "gltf-material",
+      "uuid": "da842dfa-3ee2-45e3-a1e6-1a11e9e740d6@72ccd",
+      "displayName": "",
+      "id": "72ccd",
+      "name": "Frontier4.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3fe78": {
+      "importer": "gltf-scene",
+      "uuid": "da842dfa-3ee2-45e3-a1e6-1a11e9e740d6@3fe78",
+      "displayName": "",
+      "id": "3fe78",
+      "name": "SM_Env_Cactus_Large_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file866",
+        "uri": "da842dfa-3ee2-45e3-a1e6-1a11e9e740d6@4f879"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "da842dfa-3ee2-45e3-a1e6-1a11e9e740d6@3fe78",
+    "assetFinder": {
+      "meshes": [
+        "da842dfa-3ee2-45e3-a1e6-1a11e9e740d6@2c332"
+      ],
+      "skeletons": [],
+      "textures": [
+        "da842dfa-3ee2-45e3-a1e6-1a11e9e740d6@098c8"
+      ],
+      "materials": [
+        "da842dfa-3ee2-45e3-a1e6-1a11e9e740d6@72ccd"
+      ],
+      "scenes": [
+        "da842dfa-3ee2-45e3-a1e6-1a11e9e740d6@3fe78"
+      ]
+    }
+  }
+}

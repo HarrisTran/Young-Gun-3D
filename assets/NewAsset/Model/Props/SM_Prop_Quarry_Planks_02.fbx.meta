@@ -1,0 +1,125 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "d3bac847-8f1f-4de8-9a91-8d6854ef2ca3",
+  "files": [],
+  "subMetas": {
+    "34e69": {
+      "importer": "gltf-mesh",
+      "uuid": "d3bac847-8f1f-4de8-9a91-8d6854ef2ca3@34e69",
+      "displayName": "",
+      "id": "34e69",
+      "name": "SM_Prop_Quarry_Planks_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "d3bac847-8f1f-4de8-9a91-8d6854ef2ca3@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "d3bac847-8f1f-4de8-9a91-8d6854ef2ca3@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d3bac847-8f1f-4de8-9a91-8d6854ef2ca3@d63f7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "d3bac847-8f1f-4de8-9a91-8d6854ef2ca3@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6b41f": {
+      "importer": "gltf-scene",
+      "uuid": "d3bac847-8f1f-4de8-9a91-8d6854ef2ca3@6b41f",
+      "displayName": "",
+      "id": "6b41f",
+      "name": "SM_Prop_Quarry_Planks_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "uri": "d3bac847-8f1f-4de8-9a91-8d6854ef2ca3@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "d3bac847-8f1f-4de8-9a91-8d6854ef2ca3@6b41f",
+    "assetFinder": {
+      "meshes": [
+        "d3bac847-8f1f-4de8-9a91-8d6854ef2ca3@34e69"
+      ],
+      "skeletons": [],
+      "textures": [
+        "d3bac847-8f1f-4de8-9a91-8d6854ef2ca3@ae3ea"
+      ],
+      "materials": [
+        "d3bac847-8f1f-4de8-9a91-8d6854ef2ca3@48f8a"
+      ],
+      "scenes": [
+        "d3bac847-8f1f-4de8-9a91-8d6854ef2ca3@6b41f"
+      ]
+    }
+  }
+}

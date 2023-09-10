@@ -1,0 +1,125 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "efd39420-d87a-40e3-81f7-ce8ac4e74d11",
+  "files": [],
+  "subMetas": {
+    "f2a54": {
+      "importer": "gltf-mesh",
+      "uuid": "efd39420-d87a-40e3-81f7-ce8ac4e74d11@f2a54",
+      "displayName": "",
+      "id": "f2a54",
+      "name": "SM_Env_Mine_Track_Split_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "efd39420-d87a-40e3-81f7-ce8ac4e74d11@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "efd39420-d87a-40e3-81f7-ce8ac4e74d11@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "efd39420-d87a-40e3-81f7-ce8ac4e74d11@d63f7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "efd39420-d87a-40e3-81f7-ce8ac4e74d11@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "271fa": {
+      "importer": "gltf-scene",
+      "uuid": "efd39420-d87a-40e3-81f7-ce8ac4e74d11@271fa",
+      "displayName": "",
+      "id": "271fa",
+      "name": "SM_Env_Mine_Track_Split_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "uri": "efd39420-d87a-40e3-81f7-ce8ac4e74d11@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "efd39420-d87a-40e3-81f7-ce8ac4e74d11@271fa",
+    "assetFinder": {
+      "meshes": [
+        "efd39420-d87a-40e3-81f7-ce8ac4e74d11@f2a54"
+      ],
+      "skeletons": [],
+      "textures": [
+        "efd39420-d87a-40e3-81f7-ce8ac4e74d11@ae3ea"
+      ],
+      "materials": [
+        "efd39420-d87a-40e3-81f7-ce8ac4e74d11@48f8a"
+      ],
+      "scenes": [
+        "efd39420-d87a-40e3-81f7-ce8ac4e74d11@271fa"
+      ]
+    }
+  }
+}

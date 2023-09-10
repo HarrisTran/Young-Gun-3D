@@ -1,0 +1,162 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "772c6bd4-41cc-4c81-9c35-e64aef55b5d3",
+  "files": [],
+  "subMetas": {
+    "c6be6": {
+      "importer": "gltf-mesh",
+      "uuid": "772c6bd4-41cc-4c81-9c35-e64aef55b5d3@c6be6",
+      "displayName": "",
+      "id": "c6be6",
+      "name": "SM_Bld_Cabin_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3b2ac": {
+      "importer": "gltf-mesh",
+      "uuid": "772c6bd4-41cc-4c81-9c35-e64aef55b5d3@3b2ac",
+      "displayName": "",
+      "id": "3b2ac",
+      "name": "SM_Bld_Cabin_Door_01.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "be23b": {
+      "importer": "gltf-mesh",
+      "uuid": "772c6bd4-41cc-4c81-9c35-e64aef55b5d3@be23b",
+      "displayName": "",
+      "id": "be23b",
+      "name": "SM_Bld_Cabin_Window_01.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "772c6bd4-41cc-4c81-9c35-e64aef55b5d3@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "772c6bd4-41cc-4c81-9c35-e64aef55b5d3@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "772c6bd4-41cc-4c81-9c35-e64aef55b5d3@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "dde7c": {
+      "importer": "gltf-scene",
+      "uuid": "772c6bd4-41cc-4c81-9c35-e64aef55b5d3@dde7c",
+      "displayName": "",
+      "id": "dde7c",
+      "name": "SM_Bld_Cabin_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "remap": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_01_A.png",
+        "uri": "772c6bd4-41cc-4c81-9c35-e64aef55b5d3@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "772c6bd4-41cc-4c81-9c35-e64aef55b5d3@dde7c",
+    "assetFinder": {
+      "meshes": [
+        "772c6bd4-41cc-4c81-9c35-e64aef55b5d3@c6be6",
+        "772c6bd4-41cc-4c81-9c35-e64aef55b5d3@3b2ac",
+        "772c6bd4-41cc-4c81-9c35-e64aef55b5d3@be23b"
+      ],
+      "skeletons": [],
+      "textures": [
+        "772c6bd4-41cc-4c81-9c35-e64aef55b5d3@ae3ea"
+      ],
+      "materials": [
+        "772c6bd4-41cc-4c81-9c35-e64aef55b5d3@48f8a"
+      ],
+      "scenes": [
+        "772c6bd4-41cc-4c81-9c35-e64aef55b5d3@dde7c"
+      ]
+    }
+  }
+}

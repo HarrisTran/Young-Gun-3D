@@ -1,0 +1,125 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "51fea805-d12b-4123-9fbc-66ce25a5b650",
+  "files": [],
+  "subMetas": {
+    "a5458": {
+      "importer": "gltf-mesh",
+      "uuid": "51fea805-d12b-4123-9fbc-66ce25a5b650@a5458",
+      "displayName": "",
+      "id": "a5458",
+      "name": "SM_Prop_Fur_Rug_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "51fea805-d12b-4123-9fbc-66ce25a5b650@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "51fea805-d12b-4123-9fbc-66ce25a5b650@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "51fea805-d12b-4123-9fbc-66ce25a5b650@d63f7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "51fea805-d12b-4123-9fbc-66ce25a5b650@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "188eb": {
+      "importer": "gltf-scene",
+      "uuid": "51fea805-d12b-4123-9fbc-66ce25a5b650@188eb",
+      "displayName": "",
+      "id": "188eb",
+      "name": "SM_Prop_Fur_Rug_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "uri": "51fea805-d12b-4123-9fbc-66ce25a5b650@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "51fea805-d12b-4123-9fbc-66ce25a5b650@188eb",
+    "assetFinder": {
+      "meshes": [
+        "51fea805-d12b-4123-9fbc-66ce25a5b650@a5458"
+      ],
+      "skeletons": [],
+      "textures": [
+        "51fea805-d12b-4123-9fbc-66ce25a5b650@ae3ea"
+      ],
+      "materials": [
+        "51fea805-d12b-4123-9fbc-66ce25a5b650@48f8a"
+      ],
+      "scenes": [
+        "51fea805-d12b-4123-9fbc-66ce25a5b650@188eb"
+      ]
+    }
+  }
+}

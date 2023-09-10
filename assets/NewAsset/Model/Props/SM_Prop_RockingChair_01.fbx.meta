@@ -1,0 +1,125 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "88b97b28-befd-4036-a748-2e6cf7380561",
+  "files": [],
+  "subMetas": {
+    "ae318": {
+      "importer": "gltf-mesh",
+      "uuid": "88b97b28-befd-4036-a748-2e6cf7380561@ae318",
+      "displayName": "",
+      "id": "ae318",
+      "name": "SM_Prop_RockingChair_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "88b97b28-befd-4036-a748-2e6cf7380561@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "88b97b28-befd-4036-a748-2e6cf7380561@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "88b97b28-befd-4036-a748-2e6cf7380561@d63f7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "88b97b28-befd-4036-a748-2e6cf7380561@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c5f26": {
+      "importer": "gltf-scene",
+      "uuid": "88b97b28-befd-4036-a748-2e6cf7380561@c5f26",
+      "displayName": "",
+      "id": "c5f26",
+      "name": "SM_Prop_RockingChair_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "uri": "88b97b28-befd-4036-a748-2e6cf7380561@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "88b97b28-befd-4036-a748-2e6cf7380561@c5f26",
+    "assetFinder": {
+      "meshes": [
+        "88b97b28-befd-4036-a748-2e6cf7380561@ae318"
+      ],
+      "skeletons": [],
+      "textures": [
+        "88b97b28-befd-4036-a748-2e6cf7380561@ae3ea"
+      ],
+      "materials": [
+        "88b97b28-befd-4036-a748-2e6cf7380561@48f8a"
+      ],
+      "scenes": [
+        "88b97b28-befd-4036-a748-2e6cf7380561@c5f26"
+      ]
+    }
+  }
+}

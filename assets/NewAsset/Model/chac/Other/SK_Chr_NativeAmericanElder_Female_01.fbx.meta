@@ -1,0 +1,144 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "629df0f4-b403-4de5-a8ed-c1ca985ec55d",
+  "files": [],
+  "subMetas": {
+    "7d96e": {
+      "importer": "gltf-mesh",
+      "uuid": "629df0f4-b403-4de5-a8ed-c1ca985ec55d@7d96e",
+      "displayName": "",
+      "id": "7d96e",
+      "name": "SK_Chr_NativeAmericanElder_Female_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "629df0f4-b403-4de5-a8ed-c1ca985ec55d@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 48
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "629df0f4-b403-4de5-a8ed-c1ca985ec55d@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "629df0f4-b403-4de5-a8ed-c1ca985ec55d@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "629df0f4-b403-4de5-a8ed-c1ca985ec55d@d63f7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "629df0f4-b403-4de5-a8ed-c1ca985ec55d@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "eeeae": {
+      "importer": "gltf-scene",
+      "uuid": "629df0f4-b403-4de5-a8ed-c1ca985ec55d@eeeae",
+      "displayName": "",
+      "id": "eeeae",
+      "name": "SK_Chr_NativeAmericanElder_Female_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "uri": "629df0f4-b403-4de5-a8ed-c1ca985ec55d@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "629df0f4-b403-4de5-a8ed-c1ca985ec55d@eeeae",
+    "assetFinder": {
+      "meshes": [
+        "629df0f4-b403-4de5-a8ed-c1ca985ec55d@7d96e"
+      ],
+      "skeletons": [
+        "629df0f4-b403-4de5-a8ed-c1ca985ec55d@438fe"
+      ],
+      "textures": [
+        "629df0f4-b403-4de5-a8ed-c1ca985ec55d@ae3ea"
+      ],
+      "materials": [
+        "629df0f4-b403-4de5-a8ed-c1ca985ec55d@48f8a"
+      ],
+      "scenes": [
+        "629df0f4-b403-4de5-a8ed-c1ca985ec55d@eeeae"
+      ]
+    }
+  }
+}

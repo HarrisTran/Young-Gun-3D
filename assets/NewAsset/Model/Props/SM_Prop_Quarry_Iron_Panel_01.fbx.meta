@@ -1,0 +1,125 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "456fccf7-086b-4ad5-a615-bec4ab9a0dc1",
+  "files": [],
+  "subMetas": {
+    "bd2fa": {
+      "importer": "gltf-mesh",
+      "uuid": "456fccf7-086b-4ad5-a615-bec4ab9a0dc1@bd2fa",
+      "displayName": "",
+      "id": "bd2fa",
+      "name": "SM_Prop_Quarry_Iron_Panel_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "456fccf7-086b-4ad5-a615-bec4ab9a0dc1@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "456fccf7-086b-4ad5-a615-bec4ab9a0dc1@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "456fccf7-086b-4ad5-a615-bec4ab9a0dc1@d63f7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "456fccf7-086b-4ad5-a615-bec4ab9a0dc1@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9a20b": {
+      "importer": "gltf-scene",
+      "uuid": "456fccf7-086b-4ad5-a615-bec4ab9a0dc1@9a20b",
+      "displayName": "",
+      "id": "9a20b",
+      "name": "SM_Prop_Quarry_Iron_Panel_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "uri": "456fccf7-086b-4ad5-a615-bec4ab9a0dc1@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "456fccf7-086b-4ad5-a615-bec4ab9a0dc1@9a20b",
+    "assetFinder": {
+      "meshes": [
+        "456fccf7-086b-4ad5-a615-bec4ab9a0dc1@bd2fa"
+      ],
+      "skeletons": [],
+      "textures": [
+        "456fccf7-086b-4ad5-a615-bec4ab9a0dc1@ae3ea"
+      ],
+      "materials": [
+        "456fccf7-086b-4ad5-a615-bec4ab9a0dc1@48f8a"
+      ],
+      "scenes": [
+        "456fccf7-086b-4ad5-a615-bec4ab9a0dc1@9a20b"
+      ]
+    }
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "d9832c6e-2030-46e0-8aa4-60d70f05478a",
+  "files": [],
+  "subMetas": {
+    "18771": {
+      "importer": "gltf-mesh",
+      "uuid": "d9832c6e-2030-46e0-8aa4-60d70f05478a@18771",
+      "displayName": "",
+      "id": "18771",
+      "name": "SM_Env_Quarry_Rocks_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "d9832c6e-2030-46e0-8aa4-60d70f05478a@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "d9832c6e-2030-46e0-8aa4-60d70f05478a@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d9832c6e-2030-46e0-8aa4-60d70f05478a@d63f7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "d9832c6e-2030-46e0-8aa4-60d70f05478a@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0e622": {
+      "importer": "gltf-scene",
+      "uuid": "d9832c6e-2030-46e0-8aa4-60d70f05478a@0e622",
+      "displayName": "",
+      "id": "0e622",
+      "name": "SM_Env_Quarry_Rocks_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "uri": "d9832c6e-2030-46e0-8aa4-60d70f05478a@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "d9832c6e-2030-46e0-8aa4-60d70f05478a@0e622",
+    "assetFinder": {
+      "meshes": [
+        "d9832c6e-2030-46e0-8aa4-60d70f05478a@18771"
+      ],
+      "skeletons": [],
+      "textures": [
+        "d9832c6e-2030-46e0-8aa4-60d70f05478a@ae3ea"
+      ],
+      "materials": [
+        "d9832c6e-2030-46e0-8aa4-60d70f05478a@48f8a"
+      ],
+      "scenes": [
+        "d9832c6e-2030-46e0-8aa4-60d70f05478a@0e622"
+      ]
+    }
+  }
+}

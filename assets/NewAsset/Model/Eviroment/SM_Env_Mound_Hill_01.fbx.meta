@@ -1,0 +1,126 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "b5fd58ac-9b71-4c10-9f8b-9c8fadab7089",
+  "files": [],
+  "subMetas": {
+    "814ca": {
+      "importer": "gltf-mesh",
+      "uuid": "b5fd58ac-9b71-4c10-9f8b-9c8fadab7089@814ca",
+      "displayName": "",
+      "id": "814ca",
+      "name": "SM_Env_Mound_Hill_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "b5fd58ac-9b71-4c10-9f8b-9c8fadab7089@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "b5fd58ac-9b71-4c10-9f8b-9c8fadab7089@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "b5fd58ac-9b71-4c10-9f8b-9c8fadab7089@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2b7b0": {
+      "importer": "gltf-scene",
+      "uuid": "b5fd58ac-9b71-4c10-9f8b-9c8fadab7089@2b7b0",
+      "displayName": "",
+      "id": "2b7b0",
+      "name": "SM_Env_Mound_Hill_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "remap": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_01_A.png",
+        "uri": "b5fd58ac-9b71-4c10-9f8b-9c8fadab7089@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "b5fd58ac-9b71-4c10-9f8b-9c8fadab7089@2b7b0",
+    "assetFinder": {
+      "meshes": [
+        "b5fd58ac-9b71-4c10-9f8b-9c8fadab7089@814ca"
+      ],
+      "skeletons": [],
+      "textures": [
+        "b5fd58ac-9b71-4c10-9f8b-9c8fadab7089@ae3ea"
+      ],
+      "materials": [
+        "b5fd58ac-9b71-4c10-9f8b-9c8fadab7089@48f8a"
+      ],
+      "scenes": [
+        "b5fd58ac-9b71-4c10-9f8b-9c8fadab7089@2b7b0"
+      ]
+    }
+  }
+}

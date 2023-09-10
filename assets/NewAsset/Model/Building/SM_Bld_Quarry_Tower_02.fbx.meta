@@ -1,0 +1,126 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "4c759bbe-2fbf-4db0-a3cb-81c8bd2ddeb6",
+  "files": [],
+  "subMetas": {
+    "259a2": {
+      "importer": "gltf-mesh",
+      "uuid": "4c759bbe-2fbf-4db0-a3cb-81c8bd2ddeb6@259a2",
+      "displayName": "",
+      "id": "259a2",
+      "name": "SM_Bld_Quarry_Tower_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "4c759bbe-2fbf-4db0-a3cb-81c8bd2ddeb6@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "4c759bbe-2fbf-4db0-a3cb-81c8bd2ddeb6@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_01_B.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "4c759bbe-2fbf-4db0-a3cb-81c8bd2ddeb6@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "410d0": {
+      "importer": "gltf-scene",
+      "uuid": "4c759bbe-2fbf-4db0-a3cb-81c8bd2ddeb6@410d0",
+      "displayName": "",
+      "id": "410d0",
+      "name": "SM_Bld_Quarry_Tower_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "remap": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_01_B.png",
+        "uri": "4c759bbe-2fbf-4db0-a3cb-81c8bd2ddeb6@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "4c759bbe-2fbf-4db0-a3cb-81c8bd2ddeb6@410d0",
+    "assetFinder": {
+      "meshes": [
+        "4c759bbe-2fbf-4db0-a3cb-81c8bd2ddeb6@259a2"
+      ],
+      "skeletons": [],
+      "textures": [
+        "4c759bbe-2fbf-4db0-a3cb-81c8bd2ddeb6@ae3ea"
+      ],
+      "materials": [
+        "4c759bbe-2fbf-4db0-a3cb-81c8bd2ddeb6@48f8a"
+      ],
+      "scenes": [
+        "4c759bbe-2fbf-4db0-a3cb-81c8bd2ddeb6@410d0"
+      ]
+    }
+  }
+}

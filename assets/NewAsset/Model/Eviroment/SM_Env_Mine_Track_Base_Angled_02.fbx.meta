@@ -1,0 +1,125 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "1ca251bc-e017-48c4-8c32-d9342859d23c",
+  "files": [],
+  "subMetas": {
+    "4c2db": {
+      "importer": "gltf-mesh",
+      "uuid": "1ca251bc-e017-48c4-8c32-d9342859d23c@4c2db",
+      "displayName": "",
+      "id": "4c2db",
+      "name": "SM_Env_Mine_Track_Base_Angled_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "1ca251bc-e017-48c4-8c32-d9342859d23c@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "1ca251bc-e017-48c4-8c32-d9342859d23c@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "1ca251bc-e017-48c4-8c32-d9342859d23c@d63f7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "1ca251bc-e017-48c4-8c32-d9342859d23c@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f3761": {
+      "importer": "gltf-scene",
+      "uuid": "1ca251bc-e017-48c4-8c32-d9342859d23c@f3761",
+      "displayName": "",
+      "id": "f3761",
+      "name": "SM_Env_Mine_Track_Base_Angled_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "uri": "1ca251bc-e017-48c4-8c32-d9342859d23c@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "1ca251bc-e017-48c4-8c32-d9342859d23c@f3761",
+    "assetFinder": {
+      "meshes": [
+        "1ca251bc-e017-48c4-8c32-d9342859d23c@4c2db"
+      ],
+      "skeletons": [],
+      "textures": [
+        "1ca251bc-e017-48c4-8c32-d9342859d23c@ae3ea"
+      ],
+      "materials": [
+        "1ca251bc-e017-48c4-8c32-d9342859d23c@48f8a"
+      ],
+      "scenes": [
+        "1ca251bc-e017-48c4-8c32-d9342859d23c@f3761"
+      ]
+    }
+  }
+}

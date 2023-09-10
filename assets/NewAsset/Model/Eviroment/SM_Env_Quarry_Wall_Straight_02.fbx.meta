@@ -1,0 +1,126 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "e631bd25-4296-4110-8aa4-6de3e2b351af",
+  "files": [],
+  "subMetas": {
+    "4b2c0": {
+      "importer": "gltf-mesh",
+      "uuid": "e631bd25-4296-4110-8aa4-6de3e2b351af@4b2c0",
+      "displayName": "",
+      "id": "4b2c0",
+      "name": "SM_Env_Quarry_Wall_Straight_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "e631bd25-4296-4110-8aa4-6de3e2b351af@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "e631bd25-4296-4110-8aa4-6de3e2b351af@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_01_B.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "e631bd25-4296-4110-8aa4-6de3e2b351af@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5819a": {
+      "importer": "gltf-scene",
+      "uuid": "e631bd25-4296-4110-8aa4-6de3e2b351af@5819a",
+      "displayName": "",
+      "id": "5819a",
+      "name": "SM_Env_Quarry_Wall_Straight_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "remap": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_01_B.png",
+        "uri": "e631bd25-4296-4110-8aa4-6de3e2b351af@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "e631bd25-4296-4110-8aa4-6de3e2b351af@5819a",
+    "assetFinder": {
+      "meshes": [
+        "e631bd25-4296-4110-8aa4-6de3e2b351af@4b2c0"
+      ],
+      "skeletons": [],
+      "textures": [
+        "e631bd25-4296-4110-8aa4-6de3e2b351af@ae3ea"
+      ],
+      "materials": [
+        "e631bd25-4296-4110-8aa4-6de3e2b351af@48f8a"
+      ],
+      "scenes": [
+        "e631bd25-4296-4110-8aa4-6de3e2b351af@5819a"
+      ]
+    }
+  }
+}

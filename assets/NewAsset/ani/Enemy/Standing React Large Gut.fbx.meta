@@ -1,0 +1,81 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "56259005-f62b-4ec2-ae1e-b171a336490a",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "6c2ab": {
+      "importer": "gltf-animation",
+      "uuid": "56259005-f62b-4ec2-ae1e-b171a336490a@6c2ab",
+      "displayName": "",
+      "id": "6c2ab",
+      "name": "Hit.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.600000023841858
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "670ba": {
+      "importer": "gltf-scene",
+      "uuid": "56259005-f62b-4ec2-ae1e-b171a336490a@670ba",
+      "displayName": "",
+      "id": "670ba",
+      "name": "Standing React Large Gut.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "animationImportSettings": [
+      {
+        "name": "mixamo.com",
+        "duration": 1.600000023841858,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Hit",
+            "from": 0,
+            "to": 1.600000023841858,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "56259005-f62b-4ec2-ae1e-b171a336490a@670ba",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "56259005-f62b-4ec2-ae1e-b171a336490a@670ba"
+      ]
+    }
+  }
+}

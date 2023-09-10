@@ -1,0 +1,126 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "09964be7-5e45-443c-8a3e-a67fde8687af",
+  "files": [],
+  "subMetas": {
+    "8d9b1": {
+      "importer": "gltf-mesh",
+      "uuid": "09964be7-5e45-443c-8a3e-a67fde8687af@8d9b1",
+      "displayName": "",
+      "id": "8d9b1",
+      "name": "SM_Prop_TotemPole_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9b28": {
+      "importer": "gltf-embeded-image",
+      "uuid": "09964be7-5e45-443c-8a3e-a67fde8687af@f9b28",
+      "displayName": "",
+      "id": "f9b28",
+      "name": "file867.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "71dab": {
+      "importer": "texture",
+      "uuid": "09964be7-5e45-443c-8a3e-a67fde8687af@71dab",
+      "displayName": "",
+      "id": "71dab",
+      "name": "file867.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_01_B.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bb72e": {
+      "importer": "gltf-material",
+      "uuid": "09964be7-5e45-443c-8a3e-a67fde8687af@bb72e",
+      "displayName": "",
+      "id": "bb72e",
+      "name": "Frontier11.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0ba71": {
+      "importer": "gltf-scene",
+      "uuid": "09964be7-5e45-443c-8a3e-a67fde8687af@0ba71",
+      "displayName": "",
+      "id": "0ba71",
+      "name": "SM_Prop_TotemPole_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file867",
+        "remap": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_01_B.png",
+        "uri": "09964be7-5e45-443c-8a3e-a67fde8687af@f9b28"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "09964be7-5e45-443c-8a3e-a67fde8687af@0ba71",
+    "assetFinder": {
+      "meshes": [
+        "09964be7-5e45-443c-8a3e-a67fde8687af@8d9b1"
+      ],
+      "skeletons": [],
+      "textures": [
+        "09964be7-5e45-443c-8a3e-a67fde8687af@71dab"
+      ],
+      "materials": [
+        "09964be7-5e45-443c-8a3e-a67fde8687af@bb72e"
+      ],
+      "scenes": [
+        "09964be7-5e45-443c-8a3e-a67fde8687af@0ba71"
+      ]
+    }
+  }
+}

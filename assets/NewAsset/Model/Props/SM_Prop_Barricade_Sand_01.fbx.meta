@@ -1,0 +1,126 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "f54f83c8-0122-4f47-b5db-733ef9fcb6b6",
+  "files": [],
+  "subMetas": {
+    "d3441": {
+      "importer": "gltf-mesh",
+      "uuid": "f54f83c8-0122-4f47-b5db-733ef9fcb6b6@d3441",
+      "displayName": "",
+      "id": "d3441",
+      "name": "SM_Prop_Barricade_Sand_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4f879": {
+      "importer": "gltf-embeded-image",
+      "uuid": "f54f83c8-0122-4f47-b5db-733ef9fcb6b6@4f879",
+      "displayName": "",
+      "id": "4f879",
+      "name": "file866.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "098c8": {
+      "importer": "texture",
+      "uuid": "f54f83c8-0122-4f47-b5db-733ef9fcb6b6@098c8",
+      "displayName": "",
+      "id": "098c8",
+      "name": "file866.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_01_B.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "72ccd": {
+      "importer": "gltf-material",
+      "uuid": "f54f83c8-0122-4f47-b5db-733ef9fcb6b6@72ccd",
+      "displayName": "",
+      "id": "72ccd",
+      "name": "Frontier4.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "23e85": {
+      "importer": "gltf-scene",
+      "uuid": "f54f83c8-0122-4f47-b5db-733ef9fcb6b6@23e85",
+      "displayName": "",
+      "id": "23e85",
+      "name": "SM_Prop_Barricade_Sand_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file866",
+        "remap": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_01_B.png",
+        "uri": "f54f83c8-0122-4f47-b5db-733ef9fcb6b6@4f879"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "f54f83c8-0122-4f47-b5db-733ef9fcb6b6@23e85",
+    "assetFinder": {
+      "meshes": [
+        "f54f83c8-0122-4f47-b5db-733ef9fcb6b6@d3441"
+      ],
+      "skeletons": [],
+      "textures": [
+        "f54f83c8-0122-4f47-b5db-733ef9fcb6b6@098c8"
+      ],
+      "materials": [
+        "f54f83c8-0122-4f47-b5db-733ef9fcb6b6@72ccd"
+      ],
+      "scenes": [
+        "f54f83c8-0122-4f47-b5db-733ef9fcb6b6@23e85"
+      ]
+    }
+  }
+}

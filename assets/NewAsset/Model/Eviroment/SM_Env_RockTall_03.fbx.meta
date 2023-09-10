@@ -1,0 +1,126 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "77ab9b98-7079-47fa-8082-d7a52af1f28b",
+  "files": [],
+  "subMetas": {
+    "00f9c": {
+      "importer": "gltf-mesh",
+      "uuid": "77ab9b98-7079-47fa-8082-d7a52af1f28b@00f9c",
+      "displayName": "",
+      "id": "00f9c",
+      "name": "SM_Env_RockTall_03.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "77ab9b98-7079-47fa-8082-d7a52af1f28b@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "77ab9b98-7079-47fa-8082-d7a52af1f28b@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_01_B.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "77ab9b98-7079-47fa-8082-d7a52af1f28b@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "14e16": {
+      "importer": "gltf-scene",
+      "uuid": "77ab9b98-7079-47fa-8082-d7a52af1f28b@14e16",
+      "displayName": "",
+      "id": "14e16",
+      "name": "SM_Env_RockTall_03.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "remap": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_01_B.png",
+        "uri": "77ab9b98-7079-47fa-8082-d7a52af1f28b@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "77ab9b98-7079-47fa-8082-d7a52af1f28b@14e16",
+    "assetFinder": {
+      "meshes": [
+        "77ab9b98-7079-47fa-8082-d7a52af1f28b@00f9c"
+      ],
+      "skeletons": [],
+      "textures": [
+        "77ab9b98-7079-47fa-8082-d7a52af1f28b@ae3ea"
+      ],
+      "materials": [
+        "77ab9b98-7079-47fa-8082-d7a52af1f28b@48f8a"
+      ],
+      "scenes": [
+        "77ab9b98-7079-47fa-8082-d7a52af1f28b@14e16"
+      ]
+    }
+  }
+}

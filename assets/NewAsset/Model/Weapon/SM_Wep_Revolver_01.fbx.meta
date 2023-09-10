@@ -1,0 +1,247 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "22154240-0cf5-4f18-827c-583d0dd52de1",
+  "files": [],
+  "subMetas": {
+    "142e6": {
+      "importer": "gltf-mesh",
+      "uuid": "22154240-0cf5-4f18-827c-583d0dd52de1@142e6",
+      "displayName": "",
+      "id": "142e6",
+      "name": "SM_Wep_Revolver_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7ba71": {
+      "importer": "gltf-mesh",
+      "uuid": "22154240-0cf5-4f18-827c-583d0dd52de1@7ba71",
+      "displayName": "",
+      "id": "7ba71",
+      "name": "SM_Wep_Revolver_01_Trigger.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "04063": {
+      "importer": "gltf-mesh",
+      "uuid": "22154240-0cf5-4f18-827c-583d0dd52de1@04063",
+      "displayName": "",
+      "id": "04063",
+      "name": "SM_Wep_Revolver_01_Cylander.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a983e": {
+      "importer": "gltf-mesh",
+      "uuid": "22154240-0cf5-4f18-827c-583d0dd52de1@a983e",
+      "displayName": "",
+      "id": "a983e",
+      "name": "SM_Wep_Revolver_01_Hammer.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4f879": {
+      "importer": "gltf-embeded-image",
+      "uuid": "22154240-0cf5-4f18-827c-583d0dd52de1@4f879",
+      "displayName": "",
+      "id": "4f879",
+      "name": "file866.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "098c8": {
+      "importer": "texture",
+      "uuid": "22154240-0cf5-4f18-827c-583d0dd52de1@098c8",
+      "displayName": "",
+      "id": "098c8",
+      "name": "file866.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "22154240-0cf5-4f18-827c-583d0dd52de1@4f879"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "72ccd": {
+      "importer": "gltf-material",
+      "uuid": "22154240-0cf5-4f18-827c-583d0dd52de1@72ccd",
+      "displayName": "",
+      "id": "72ccd",
+      "name": "Frontier4.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2025c": {
+      "importer": "gltf-scene",
+      "uuid": "22154240-0cf5-4f18-827c-583d0dd52de1@2025c",
+      "displayName": "",
+      "id": "2025c",
+      "name": "SM_Wep_Revolver_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file866",
+        "uri": "22154240-0cf5-4f18-827c-583d0dd52de1@4f879"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "22154240-0cf5-4f18-827c-583d0dd52de1@2025c",
+    "assetFinder": {
+      "meshes": [
+        "22154240-0cf5-4f18-827c-583d0dd52de1@142e6",
+        "22154240-0cf5-4f18-827c-583d0dd52de1@7ba71",
+        "22154240-0cf5-4f18-827c-583d0dd52de1@04063",
+        "22154240-0cf5-4f18-827c-583d0dd52de1@a983e"
+      ],
+      "skeletons": [],
+      "textures": [
+        "22154240-0cf5-4f18-827c-583d0dd52de1@098c8"
+      ],
+      "materials": [
+        "22154240-0cf5-4f18-827c-583d0dd52de1@72ccd"
+      ],
+      "scenes": [
+        "22154240-0cf5-4f18-827c-583d0dd52de1@2025c"
+      ]
+    },
+    "materials": {
+      "22154240-0cf5-4f18-827c-583d0dd52de1@72ccd": {
+        "__type__": "cc.Material",
+        "_name": "",
+        "_objFlags": 0,
+        "_native": "",
+        "_effectAsset": {
+          "__uuid__": "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+          "__expectedType__": "cc.EffectAsset"
+        },
+        "_techIdx": 0,
+        "_defines": [
+          {
+            "DCC_APP_NAME": 5,
+            "USE_ALBEDO_MAP": true
+          },
+          {},
+          {}
+        ],
+        "_states": [
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          }
+        ],
+        "_props": [
+          {
+            "mainTexture": {
+              "__uuid__": "f97136db-382e-4cd2-a01e-f046eabbe98a@6c48a",
+              "__expectedType__": "cc.Texture2D"
+            },
+            "albedoScale": 0.800000011920929,
+            "specularColor": {
+              "__type__": "cc.Color",
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+            }
+          },
+          {},
+          {}
+        ]
+      }
+    }
+  }
+}

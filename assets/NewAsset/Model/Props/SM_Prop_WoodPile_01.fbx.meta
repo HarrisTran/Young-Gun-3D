@@ -1,0 +1,126 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "85e96c1b-4834-41e3-8ccc-cf25422ebe55",
+  "files": [],
+  "subMetas": {
+    "14461": {
+      "importer": "gltf-mesh",
+      "uuid": "85e96c1b-4834-41e3-8ccc-cf25422ebe55@14461",
+      "displayName": "",
+      "id": "14461",
+      "name": "SM_Prop_WoodPile_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "85e96c1b-4834-41e3-8ccc-cf25422ebe55@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "85e96c1b-4834-41e3-8ccc-cf25422ebe55@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "85e96c1b-4834-41e3-8ccc-cf25422ebe55@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9220": {
+      "importer": "gltf-scene",
+      "uuid": "85e96c1b-4834-41e3-8ccc-cf25422ebe55@f9220",
+      "displayName": "",
+      "id": "f9220",
+      "name": "SM_Prop_WoodPile_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "remap": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_01_A.png",
+        "uri": "85e96c1b-4834-41e3-8ccc-cf25422ebe55@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "85e96c1b-4834-41e3-8ccc-cf25422ebe55@f9220",
+    "assetFinder": {
+      "meshes": [
+        "85e96c1b-4834-41e3-8ccc-cf25422ebe55@14461"
+      ],
+      "skeletons": [],
+      "textures": [
+        "85e96c1b-4834-41e3-8ccc-cf25422ebe55@ae3ea"
+      ],
+      "materials": [
+        "85e96c1b-4834-41e3-8ccc-cf25422ebe55@48f8a"
+      ],
+      "scenes": [
+        "85e96c1b-4834-41e3-8ccc-cf25422ebe55@f9220"
+      ]
+    }
+  }
+}

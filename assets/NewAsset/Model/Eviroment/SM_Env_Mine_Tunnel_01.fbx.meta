@@ -1,0 +1,125 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "6c206c0e-25a2-4c4f-8e3d-8537328153c5",
+  "files": [],
+  "subMetas": {
+    "4cef1": {
+      "importer": "gltf-mesh",
+      "uuid": "6c206c0e-25a2-4c4f-8e3d-8537328153c5@4cef1",
+      "displayName": "",
+      "id": "4cef1",
+      "name": "SM_Env_Mine_Tunnel_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "6c206c0e-25a2-4c4f-8e3d-8537328153c5@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "6c206c0e-25a2-4c4f-8e3d-8537328153c5@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "6c206c0e-25a2-4c4f-8e3d-8537328153c5@d63f7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "6c206c0e-25a2-4c4f-8e3d-8537328153c5@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2b610": {
+      "importer": "gltf-scene",
+      "uuid": "6c206c0e-25a2-4c4f-8e3d-8537328153c5@2b610",
+      "displayName": "",
+      "id": "2b610",
+      "name": "SM_Env_Mine_Tunnel_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "uri": "6c206c0e-25a2-4c4f-8e3d-8537328153c5@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "6c206c0e-25a2-4c4f-8e3d-8537328153c5@2b610",
+    "assetFinder": {
+      "meshes": [
+        "6c206c0e-25a2-4c4f-8e3d-8537328153c5@4cef1"
+      ],
+      "skeletons": [],
+      "textures": [
+        "6c206c0e-25a2-4c4f-8e3d-8537328153c5@ae3ea"
+      ],
+      "materials": [
+        "6c206c0e-25a2-4c4f-8e3d-8537328153c5@48f8a"
+      ],
+      "scenes": [
+        "6c206c0e-25a2-4c4f-8e3d-8537328153c5@2b610"
+      ]
+    }
+  }
+}

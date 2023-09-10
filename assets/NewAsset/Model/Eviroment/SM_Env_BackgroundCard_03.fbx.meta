@@ -1,0 +1,78 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "f04dbd32-3013-4049-9050-d1bb33f36a8c",
+  "files": [],
+  "subMetas": {
+    "b2cec": {
+      "importer": "gltf-mesh",
+      "uuid": "f04dbd32-3013-4049-9050-d1bb33f36a8c@b2cec",
+      "displayName": "",
+      "id": "b2cec",
+      "name": "SM_Env_BackgroundCard_03.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "79f05": {
+      "importer": "gltf-material",
+      "uuid": "f04dbd32-3013-4049-9050-d1bb33f36a8c@79f05",
+      "displayName": "",
+      "id": "79f05",
+      "name": "lambert242.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8ffcd": {
+      "importer": "gltf-scene",
+      "uuid": "f04dbd32-3013-4049-9050-d1bb33f36a8c@8ffcd",
+      "displayName": "",
+      "id": "8ffcd",
+      "name": "SM_Env_BackgroundCard_03.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "f04dbd32-3013-4049-9050-d1bb33f36a8c@8ffcd",
+    "assetFinder": {
+      "meshes": [
+        "f04dbd32-3013-4049-9050-d1bb33f36a8c@b2cec"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "f04dbd32-3013-4049-9050-d1bb33f36a8c@79f05"
+      ],
+      "scenes": [
+        "f04dbd32-3013-4049-9050-d1bb33f36a8c@8ffcd"
+      ]
+    }
+  }
+}

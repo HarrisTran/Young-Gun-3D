@@ -1,0 +1,162 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "e08b1c64-c204-4dc6-9a3f-1ba6d2701ab7",
+  "files": [],
+  "subMetas": {
+    "92876": {
+      "importer": "gltf-mesh",
+      "uuid": "e08b1c64-c204-4dc6-9a3f-1ba6d2701ab7@92876",
+      "displayName": "",
+      "id": "92876",
+      "name": "SM_Bld_Mexican_Entrance_01_Door_02.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "639e7": {
+      "importer": "gltf-mesh",
+      "uuid": "e08b1c64-c204-4dc6-9a3f-1ba6d2701ab7@639e7",
+      "displayName": "",
+      "id": "639e7",
+      "name": "SM_Bld_Mexican_Entrance_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7ffac": {
+      "importer": "gltf-mesh",
+      "uuid": "e08b1c64-c204-4dc6-9a3f-1ba6d2701ab7@7ffac",
+      "displayName": "",
+      "id": "7ffac",
+      "name": "SM_Bld_Mexican_Entrance_01_Door_01.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "e08b1c64-c204-4dc6-9a3f-1ba6d2701ab7@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "e08b1c64-c204-4dc6-9a3f-1ba6d2701ab7@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "e08b1c64-c204-4dc6-9a3f-1ba6d2701ab7@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fe61c": {
+      "importer": "gltf-scene",
+      "uuid": "e08b1c64-c204-4dc6-9a3f-1ba6d2701ab7@fe61c",
+      "displayName": "",
+      "id": "fe61c",
+      "name": "SM_Bld_Mexican_Entrance_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "remap": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_01_A.png",
+        "uri": "e08b1c64-c204-4dc6-9a3f-1ba6d2701ab7@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "e08b1c64-c204-4dc6-9a3f-1ba6d2701ab7@fe61c",
+    "assetFinder": {
+      "meshes": [
+        "e08b1c64-c204-4dc6-9a3f-1ba6d2701ab7@639e7",
+        "e08b1c64-c204-4dc6-9a3f-1ba6d2701ab7@92876",
+        "e08b1c64-c204-4dc6-9a3f-1ba6d2701ab7@7ffac"
+      ],
+      "skeletons": [],
+      "textures": [
+        "e08b1c64-c204-4dc6-9a3f-1ba6d2701ab7@ae3ea"
+      ],
+      "materials": [
+        "e08b1c64-c204-4dc6-9a3f-1ba6d2701ab7@48f8a"
+      ],
+      "scenes": [
+        "e08b1c64-c204-4dc6-9a3f-1ba6d2701ab7@fe61c"
+      ]
+    }
+  }
+}

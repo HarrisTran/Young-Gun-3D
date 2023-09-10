@@ -1,0 +1,144 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "21cad610-68c2-4d61-aa99-6c6059e7708f",
+  "files": [],
+  "subMetas": {
+    "a9fdc": {
+      "importer": "gltf-mesh",
+      "uuid": "21cad610-68c2-4d61-aa99-6c6059e7708f@a9fdc",
+      "displayName": "",
+      "id": "a9fdc",
+      "name": "SK_Chr_Bandit_Male_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "21cad610-68c2-4d61-aa99-6c6059e7708f@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 48
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "21cad610-68c2-4d61-aa99-6c6059e7708f@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "21cad610-68c2-4d61-aa99-6c6059e7708f@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "21cad610-68c2-4d61-aa99-6c6059e7708f@d63f7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "21cad610-68c2-4d61-aa99-6c6059e7708f@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7d617": {
+      "importer": "gltf-scene",
+      "uuid": "21cad610-68c2-4d61-aa99-6c6059e7708f@7d617",
+      "displayName": "",
+      "id": "7d617",
+      "name": "SK_Chr_Bandit_Male_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "uri": "21cad610-68c2-4d61-aa99-6c6059e7708f@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "21cad610-68c2-4d61-aa99-6c6059e7708f@7d617",
+    "assetFinder": {
+      "meshes": [
+        "21cad610-68c2-4d61-aa99-6c6059e7708f@a9fdc"
+      ],
+      "skeletons": [
+        "21cad610-68c2-4d61-aa99-6c6059e7708f@438fe"
+      ],
+      "textures": [
+        "21cad610-68c2-4d61-aa99-6c6059e7708f@ae3ea"
+      ],
+      "materials": [
+        "21cad610-68c2-4d61-aa99-6c6059e7708f@48f8a"
+      ],
+      "scenes": [
+        "21cad610-68c2-4d61-aa99-6c6059e7708f@7d617"
+      ]
+    }
+  }
+}

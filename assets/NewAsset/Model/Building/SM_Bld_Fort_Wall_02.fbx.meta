@@ -1,0 +1,144 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "acf8afc4-50b2-4c3c-bb4b-5287fbc5dc13",
+  "files": [],
+  "subMetas": {
+    "d8597": {
+      "importer": "gltf-mesh",
+      "uuid": "acf8afc4-50b2-4c3c-bb4b-5287fbc5dc13@d8597",
+      "displayName": "",
+      "id": "d8597",
+      "name": "SM_Bld_Fort_Wall_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9c84f": {
+      "importer": "gltf-mesh",
+      "uuid": "acf8afc4-50b2-4c3c-bb4b-5287fbc5dc13@9c84f",
+      "displayName": "",
+      "id": "9c84f",
+      "name": "SM_Bld_Fort_Wall_02_Walkway.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "acf8afc4-50b2-4c3c-bb4b-5287fbc5dc13@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "acf8afc4-50b2-4c3c-bb4b-5287fbc5dc13@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_01_B.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "acf8afc4-50b2-4c3c-bb4b-5287fbc5dc13@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "018e1": {
+      "importer": "gltf-scene",
+      "uuid": "acf8afc4-50b2-4c3c-bb4b-5287fbc5dc13@018e1",
+      "displayName": "",
+      "id": "018e1",
+      "name": "SM_Bld_Fort_Wall_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "remap": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_01_B.png",
+        "uri": "acf8afc4-50b2-4c3c-bb4b-5287fbc5dc13@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "acf8afc4-50b2-4c3c-bb4b-5287fbc5dc13@018e1",
+    "assetFinder": {
+      "meshes": [
+        "acf8afc4-50b2-4c3c-bb4b-5287fbc5dc13@d8597",
+        "acf8afc4-50b2-4c3c-bb4b-5287fbc5dc13@9c84f"
+      ],
+      "skeletons": [],
+      "textures": [
+        "acf8afc4-50b2-4c3c-bb4b-5287fbc5dc13@ae3ea"
+      ],
+      "materials": [
+        "acf8afc4-50b2-4c3c-bb4b-5287fbc5dc13@48f8a"
+      ],
+      "scenes": [
+        "acf8afc4-50b2-4c3c-bb4b-5287fbc5dc13@018e1"
+      ]
+    }
+  }
+}

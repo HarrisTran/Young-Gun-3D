@@ -1,0 +1,126 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "56f0e765-e88f-4d51-a687-f64f7481d9c1",
+  "files": [],
+  "subMetas": {
+    "14be3": {
+      "importer": "gltf-mesh",
+      "uuid": "56f0e765-e88f-4d51-a687-f64f7481d9c1@14be3",
+      "displayName": "",
+      "id": "14be3",
+      "name": "SM_Env_Mine_Tunnel_Angled_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "56f0e765-e88f-4d51-a687-f64f7481d9c1@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "56f0e765-e88f-4d51-a687-f64f7481d9c1@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_01_B.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "56f0e765-e88f-4d51-a687-f64f7481d9c1@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a792b": {
+      "importer": "gltf-scene",
+      "uuid": "56f0e765-e88f-4d51-a687-f64f7481d9c1@a792b",
+      "displayName": "",
+      "id": "a792b",
+      "name": "SM_Env_Mine_Tunnel_Angled_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "remap": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_01_B.png",
+        "uri": "56f0e765-e88f-4d51-a687-f64f7481d9c1@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "56f0e765-e88f-4d51-a687-f64f7481d9c1@a792b",
+    "assetFinder": {
+      "meshes": [
+        "56f0e765-e88f-4d51-a687-f64f7481d9c1@14be3"
+      ],
+      "skeletons": [],
+      "textures": [
+        "56f0e765-e88f-4d51-a687-f64f7481d9c1@ae3ea"
+      ],
+      "materials": [
+        "56f0e765-e88f-4d51-a687-f64f7481d9c1@48f8a"
+      ],
+      "scenes": [
+        "56f0e765-e88f-4d51-a687-f64f7481d9c1@a792b"
+      ]
+    }
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "6e0982b2-51d3-4ab6-a8ba-f48e6879bd79",
+  "files": [],
+  "subMetas": {
+    "74efd": {
+      "importer": "gltf-mesh",
+      "uuid": "6e0982b2-51d3-4ab6-a8ba-f48e6879bd79@74efd",
+      "displayName": "",
+      "id": "74efd",
+      "name": "SM_Env_Shrub_03.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "6e0982b2-51d3-4ab6-a8ba-f48e6879bd79@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "6e0982b2-51d3-4ab6-a8ba-f48e6879bd79@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "6e0982b2-51d3-4ab6-a8ba-f48e6879bd79@d63f7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "6e0982b2-51d3-4ab6-a8ba-f48e6879bd79@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a3da6": {
+      "importer": "gltf-scene",
+      "uuid": "6e0982b2-51d3-4ab6-a8ba-f48e6879bd79@a3da6",
+      "displayName": "",
+      "id": "a3da6",
+      "name": "SM_Env_Shrub_03.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "uri": "6e0982b2-51d3-4ab6-a8ba-f48e6879bd79@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "6e0982b2-51d3-4ab6-a8ba-f48e6879bd79@a3da6",
+    "assetFinder": {
+      "meshes": [
+        "6e0982b2-51d3-4ab6-a8ba-f48e6879bd79@74efd"
+      ],
+      "skeletons": [],
+      "textures": [
+        "6e0982b2-51d3-4ab6-a8ba-f48e6879bd79@ae3ea"
+      ],
+      "materials": [
+        "6e0982b2-51d3-4ab6-a8ba-f48e6879bd79@48f8a"
+      ],
+      "scenes": [
+        "6e0982b2-51d3-4ab6-a8ba-f48e6879bd79@a3da6"
+      ]
+    }
+  }
+}

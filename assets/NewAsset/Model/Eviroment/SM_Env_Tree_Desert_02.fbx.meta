@@ -1,0 +1,130 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "09c77c59-545b-44be-b9e0-27dccba734d6",
+  "files": [],
+  "subMetas": {
+    "ef963": {
+      "importer": "gltf-mesh",
+      "uuid": "09c77c59-545b-44be-b9e0-27dccba734d6@ef963",
+      "displayName": "",
+      "id": "ef963",
+      "name": "SM_Env_Tree_Desert_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "09c77c59-545b-44be-b9e0-27dccba734d6@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "09c77c59-545b-44be-b9e0-27dccba734d6@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_02_B.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "09c77c59-545b-44be-b9e0-27dccba734d6@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "736bb": {
+      "importer": "gltf-scene",
+      "uuid": "09c77c59-545b-44be-b9e0-27dccba734d6@736bb",
+      "displayName": "",
+      "id": "736bb",
+      "name": "SM_Env_Tree_Desert_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "remap": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_02_B.png",
+        "uri": "09c77c59-545b-44be-b9e0-27dccba734d6@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "09c77c59-545b-44be-b9e0-27dccba734d6@736bb",
+    "assetFinder": {
+      "meshes": [
+        "09c77c59-545b-44be-b9e0-27dccba734d6@ef963"
+      ],
+      "skeletons": [],
+      "textures": [
+        "09c77c59-545b-44be-b9e0-27dccba734d6@ae3ea"
+      ],
+      "materials": [
+        "09c77c59-545b-44be-b9e0-27dccba734d6@48f8a"
+      ],
+      "scenes": [
+        "09c77c59-545b-44be-b9e0-27dccba734d6@736bb"
+      ]
+    },
+    "dumpMaterials": false,
+    "useVertexColors": true,
+    "depthWriteInAlphaModeBlend": false,
+    "materialDumpDir": "db://assets/NewAsset/Model/Eviroment/Materials_SM_Env_Tree_Desert_02"
+  }
+}

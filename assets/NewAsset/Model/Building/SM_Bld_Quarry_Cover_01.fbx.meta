@@ -1,0 +1,125 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "d2c9df3c-e36e-45f8-b5fe-31a2c7663374",
+  "files": [],
+  "subMetas": {
+    "a09bb": {
+      "importer": "gltf-mesh",
+      "uuid": "d2c9df3c-e36e-45f8-b5fe-31a2c7663374@a09bb",
+      "displayName": "",
+      "id": "a09bb",
+      "name": "SM_Bld_Quarry_Cover_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "d2c9df3c-e36e-45f8-b5fe-31a2c7663374@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "d2c9df3c-e36e-45f8-b5fe-31a2c7663374@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d2c9df3c-e36e-45f8-b5fe-31a2c7663374@d63f7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "d2c9df3c-e36e-45f8-b5fe-31a2c7663374@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "36cfd": {
+      "importer": "gltf-scene",
+      "uuid": "d2c9df3c-e36e-45f8-b5fe-31a2c7663374@36cfd",
+      "displayName": "",
+      "id": "36cfd",
+      "name": "SM_Bld_Quarry_Cover_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "uri": "d2c9df3c-e36e-45f8-b5fe-31a2c7663374@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "d2c9df3c-e36e-45f8-b5fe-31a2c7663374@36cfd",
+    "assetFinder": {
+      "meshes": [
+        "d2c9df3c-e36e-45f8-b5fe-31a2c7663374@a09bb"
+      ],
+      "skeletons": [],
+      "textures": [
+        "d2c9df3c-e36e-45f8-b5fe-31a2c7663374@ae3ea"
+      ],
+      "materials": [
+        "d2c9df3c-e36e-45f8-b5fe-31a2c7663374@48f8a"
+      ],
+      "scenes": [
+        "d2c9df3c-e36e-45f8-b5fe-31a2c7663374@36cfd"
+      ]
+    }
+  }
+}

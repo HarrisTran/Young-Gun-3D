@@ -1,0 +1,126 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "2dcbd914-4ea3-4dc2-80f4-b137d6fda01c",
+  "files": [],
+  "subMetas": {
+    "e17c1": {
+      "importer": "gltf-mesh",
+      "uuid": "2dcbd914-4ea3-4dc2-80f4-b137d6fda01c@e17c1",
+      "displayName": "",
+      "id": "e17c1",
+      "name": "SM_Bld_Tent_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "2dcbd914-4ea3-4dc2-80f4-b137d6fda01c@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "2dcbd914-4ea3-4dc2-80f4-b137d6fda01c@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "2dcbd914-4ea3-4dc2-80f4-b137d6fda01c@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f6ca9": {
+      "importer": "gltf-scene",
+      "uuid": "2dcbd914-4ea3-4dc2-80f4-b137d6fda01c@f6ca9",
+      "displayName": "",
+      "id": "f6ca9",
+      "name": "SM_Bld_Tent_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "remap": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_01_A.png",
+        "uri": "2dcbd914-4ea3-4dc2-80f4-b137d6fda01c@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "2dcbd914-4ea3-4dc2-80f4-b137d6fda01c@f6ca9",
+    "assetFinder": {
+      "meshes": [
+        "2dcbd914-4ea3-4dc2-80f4-b137d6fda01c@e17c1"
+      ],
+      "skeletons": [],
+      "textures": [
+        "2dcbd914-4ea3-4dc2-80f4-b137d6fda01c@ae3ea"
+      ],
+      "materials": [
+        "2dcbd914-4ea3-4dc2-80f4-b137d6fda01c@48f8a"
+      ],
+      "scenes": [
+        "2dcbd914-4ea3-4dc2-80f4-b137d6fda01c@f6ca9"
+      ]
+    }
+  }
+}

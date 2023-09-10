@@ -1,0 +1,126 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "190d7c52-b053-4212-b3ea-feb55ec1a7e1",
+  "files": [],
+  "subMetas": {
+    "059c7": {
+      "importer": "gltf-mesh",
+      "uuid": "190d7c52-b053-4212-b3ea-feb55ec1a7e1@059c7",
+      "displayName": "",
+      "id": "059c7",
+      "name": "SM_Bld_Fort_Tower_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "190d7c52-b053-4212-b3ea-feb55ec1a7e1@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "190d7c52-b053-4212-b3ea-feb55ec1a7e1@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "190d7c52-b053-4212-b3ea-feb55ec1a7e1@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "85f5a": {
+      "importer": "gltf-scene",
+      "uuid": "190d7c52-b053-4212-b3ea-feb55ec1a7e1@85f5a",
+      "displayName": "",
+      "id": "85f5a",
+      "name": "SM_Bld_Fort_Tower_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "remap": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_01_A.png",
+        "uri": "190d7c52-b053-4212-b3ea-feb55ec1a7e1@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "190d7c52-b053-4212-b3ea-feb55ec1a7e1@85f5a",
+    "assetFinder": {
+      "meshes": [
+        "190d7c52-b053-4212-b3ea-feb55ec1a7e1@059c7"
+      ],
+      "skeletons": [],
+      "textures": [
+        "190d7c52-b053-4212-b3ea-feb55ec1a7e1@ae3ea"
+      ],
+      "materials": [
+        "190d7c52-b053-4212-b3ea-feb55ec1a7e1@48f8a"
+      ],
+      "scenes": [
+        "190d7c52-b053-4212-b3ea-feb55ec1a7e1@85f5a"
+      ]
+    }
+  }
+}

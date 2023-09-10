@@ -1,0 +1,125 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "3260ab18-a3f1-4e96-ac4d-24e5c1ad2382",
+  "files": [],
+  "subMetas": {
+    "8c3ac": {
+      "importer": "gltf-mesh",
+      "uuid": "3260ab18-a3f1-4e96-ac4d-24e5c1ad2382@8c3ac",
+      "displayName": "",
+      "id": "8c3ac",
+      "name": "SM_Prop_WoodPile_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "3260ab18-a3f1-4e96-ac4d-24e5c1ad2382@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "3260ab18-a3f1-4e96-ac4d-24e5c1ad2382@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "3260ab18-a3f1-4e96-ac4d-24e5c1ad2382@d63f7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "3260ab18-a3f1-4e96-ac4d-24e5c1ad2382@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "05d7b": {
+      "importer": "gltf-scene",
+      "uuid": "3260ab18-a3f1-4e96-ac4d-24e5c1ad2382@05d7b",
+      "displayName": "",
+      "id": "05d7b",
+      "name": "SM_Prop_WoodPile_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "uri": "3260ab18-a3f1-4e96-ac4d-24e5c1ad2382@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "3260ab18-a3f1-4e96-ac4d-24e5c1ad2382@05d7b",
+    "assetFinder": {
+      "meshes": [
+        "3260ab18-a3f1-4e96-ac4d-24e5c1ad2382@8c3ac"
+      ],
+      "skeletons": [],
+      "textures": [
+        "3260ab18-a3f1-4e96-ac4d-24e5c1ad2382@ae3ea"
+      ],
+      "materials": [
+        "3260ab18-a3f1-4e96-ac4d-24e5c1ad2382@48f8a"
+      ],
+      "scenes": [
+        "3260ab18-a3f1-4e96-ac4d-24e5c1ad2382@05d7b"
+      ]
+    }
+  }
+}

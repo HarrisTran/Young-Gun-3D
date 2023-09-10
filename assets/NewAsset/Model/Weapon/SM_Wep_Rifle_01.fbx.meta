@@ -1,0 +1,162 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "b3c2044e-9021-4f8c-8197-cfc15269ba11",
+  "files": [],
+  "subMetas": {
+    "69c9e": {
+      "importer": "gltf-mesh",
+      "uuid": "b3c2044e-9021-4f8c-8197-cfc15269ba11@69c9e",
+      "displayName": "",
+      "id": "69c9e",
+      "name": "SM_Wep_Rifle_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a21ed": {
+      "importer": "gltf-mesh",
+      "uuid": "b3c2044e-9021-4f8c-8197-cfc15269ba11@a21ed",
+      "displayName": "",
+      "id": "a21ed",
+      "name": "SM_Wep_Rifle_01_Trigger.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ec688": {
+      "importer": "gltf-mesh",
+      "uuid": "b3c2044e-9021-4f8c-8197-cfc15269ba11@ec688",
+      "displayName": "",
+      "id": "ec688",
+      "name": "SM_Wep_Rifle_01_Hammer.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4f879": {
+      "importer": "gltf-embeded-image",
+      "uuid": "b3c2044e-9021-4f8c-8197-cfc15269ba11@4f879",
+      "displayName": "",
+      "id": "4f879",
+      "name": "file866.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "098c8": {
+      "importer": "texture",
+      "uuid": "b3c2044e-9021-4f8c-8197-cfc15269ba11@098c8",
+      "displayName": "",
+      "id": "098c8",
+      "name": "file866.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "72ccd": {
+      "importer": "gltf-material",
+      "uuid": "b3c2044e-9021-4f8c-8197-cfc15269ba11@72ccd",
+      "displayName": "",
+      "id": "72ccd",
+      "name": "Frontier4.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6015f": {
+      "importer": "gltf-scene",
+      "uuid": "b3c2044e-9021-4f8c-8197-cfc15269ba11@6015f",
+      "displayName": "",
+      "id": "6015f",
+      "name": "SM_Wep_Rifle_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file866",
+        "remap": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_01_A.png",
+        "uri": "b3c2044e-9021-4f8c-8197-cfc15269ba11@4f879"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "b3c2044e-9021-4f8c-8197-cfc15269ba11@6015f",
+    "assetFinder": {
+      "meshes": [
+        "b3c2044e-9021-4f8c-8197-cfc15269ba11@69c9e",
+        "b3c2044e-9021-4f8c-8197-cfc15269ba11@a21ed",
+        "b3c2044e-9021-4f8c-8197-cfc15269ba11@ec688"
+      ],
+      "skeletons": [],
+      "textures": [
+        "b3c2044e-9021-4f8c-8197-cfc15269ba11@098c8"
+      ],
+      "materials": [
+        "b3c2044e-9021-4f8c-8197-cfc15269ba11@72ccd"
+      ],
+      "scenes": [
+        "b3c2044e-9021-4f8c-8197-cfc15269ba11@6015f"
+      ]
+    }
+  }
+}

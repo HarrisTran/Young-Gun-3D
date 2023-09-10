@@ -1,0 +1,293 @@
+{
+  "ver": "1.0.8",
+  "importer": "sprite-atlas",
+  "imported": true,
+  "uuid": "b5ec1fe6-4a3e-4442-8bad-44ee677a3567",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {
+    "29882": {
+      "importer": "sprite-frame",
+      "uuid": "b5ec1fe6-4a3e-4442-8bad-44ee677a3567@29882",
+      "displayName": "",
+      "id": "29882",
+      "name": "Cannon",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 13,
+        "offsetY": -15,
+        "trimX": 432,
+        "trimY": 160,
+        "width": 363,
+        "height": 257,
+        "rawWidth": 475,
+        "rawHeight": 475,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "86193b2f-76d1-4139-9cea-3a7d6608e765@6c48a",
+        "atlasUuid": "b5ec1fe6-4a3e-4442-8bad-44ee677a3567"
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "65431": {
+      "importer": "sprite-frame",
+      "uuid": "b5ec1fe6-4a3e-4442-8bad-44ee677a3567@65431",
+      "displayName": "",
+      "id": "65431",
+      "name": "Rifle_01",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 6.5,
+        "offsetY": -4.5,
+        "trimX": 0,
+        "trimY": 132,
+        "width": 432,
+        "height": 64,
+        "rawWidth": 475,
+        "rawHeight": 475,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "86193b2f-76d1-4139-9cea-3a7d6608e765@6c48a",
+        "atlasUuid": "b5ec1fe6-4a3e-4442-8bad-44ee677a3567"
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d2272": {
+      "importer": "sprite-frame",
+      "uuid": "b5ec1fe6-4a3e-4442-8bad-44ee677a3567@d2272",
+      "displayName": "",
+      "id": "d2272",
+      "name": "Knife",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": -1,
+        "offsetY": 26,
+        "trimX": 0,
+        "trimY": 0,
+        "width": 472,
+        "height": 132,
+        "rawWidth": 500,
+        "rawHeight": 500,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "86193b2f-76d1-4139-9cea-3a7d6608e765@6c48a",
+        "atlasUuid": "b5ec1fe6-4a3e-4442-8bad-44ee677a3567"
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ef779": {
+      "importer": "sprite-frame",
+      "uuid": "b5ec1fe6-4a3e-4442-8bad-44ee677a3567@ef779",
+      "displayName": "",
+      "id": "ef779",
+      "name": "Hammer",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": true,
+        "offsetX": -6,
+        "offsetY": -10,
+        "trimX": 472,
+        "trimY": 0,
+        "width": 160,
+        "height": 436,
+        "rawWidth": 500,
+        "rawHeight": 500,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "86193b2f-76d1-4139-9cea-3a7d6608e765@6c48a",
+        "atlasUuid": "b5ec1fe6-4a3e-4442-8bad-44ee677a3567"
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ec0b3": {
+      "importer": "sprite-frame",
+      "uuid": "b5ec1fe6-4a3e-4442-8bad-44ee677a3567@ec0b3",
+      "displayName": "",
+      "id": "ec0b3",
+      "name": "Axe",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": true,
+        "offsetX": 4,
+        "offsetY": -7,
+        "trimX": 908,
+        "trimY": 0,
+        "width": 208,
+        "height": 374,
+        "rawWidth": 500,
+        "rawHeight": 500,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "86193b2f-76d1-4139-9cea-3a7d6608e765@6c48a",
+        "atlasUuid": "b5ec1fe6-4a3e-4442-8bad-44ee677a3567"
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4226f": {
+      "importer": "sprite-frame",
+      "uuid": "b5ec1fe6-4a3e-4442-8bad-44ee677a3567@4226f",
+      "displayName": "",
+      "id": "4226f",
+      "name": "Hoe",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": true,
+        "offsetX": -10.5,
+        "offsetY": -8.5,
+        "trimX": 0,
+        "trimY": 196,
+        "width": 228,
+        "height": 286,
+        "rawWidth": 475,
+        "rawHeight": 475,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "86193b2f-76d1-4139-9cea-3a7d6608e765@6c48a",
+        "atlasUuid": "b5ec1fe6-4a3e-4442-8bad-44ee677a3567"
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "atlasTextureName": "weapon.png",
+    "format": 2,
+    "uuid": "b5ec1fe6-4a3e-4442-8bad-44ee677a3567",
+    "textureUuid": "86193b2f-76d1-4139-9cea-3a7d6608e765@6c48a"
+  }
+}

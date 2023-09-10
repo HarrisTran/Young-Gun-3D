@@ -1,0 +1,162 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "2edd66b5-cf5f-4505-8eb7-c44718c954b4",
+  "files": [],
+  "subMetas": {
+    "39844": {
+      "importer": "gltf-mesh",
+      "uuid": "2edd66b5-cf5f-4505-8eb7-c44718c954b4@39844",
+      "displayName": "",
+      "id": "39844",
+      "name": "SM_Bld_Fort_Entrance_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "049d0": {
+      "importer": "gltf-mesh",
+      "uuid": "2edd66b5-cf5f-4505-8eb7-c44718c954b4@049d0",
+      "displayName": "",
+      "id": "049d0",
+      "name": "SM_Bld_Fort_Entrance_01_Door_01.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c76a6": {
+      "importer": "gltf-mesh",
+      "uuid": "2edd66b5-cf5f-4505-8eb7-c44718c954b4@c76a6",
+      "displayName": "",
+      "id": "c76a6",
+      "name": "SM_Bld_Fort_Entrance_01_Door_02.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "2edd66b5-cf5f-4505-8eb7-c44718c954b4@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "2edd66b5-cf5f-4505-8eb7-c44718c954b4@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "2edd66b5-cf5f-4505-8eb7-c44718c954b4@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1aa40": {
+      "importer": "gltf-scene",
+      "uuid": "2edd66b5-cf5f-4505-8eb7-c44718c954b4@1aa40",
+      "displayName": "",
+      "id": "1aa40",
+      "name": "SM_Bld_Fort_Entrance_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "remap": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_01_A.png",
+        "uri": "2edd66b5-cf5f-4505-8eb7-c44718c954b4@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "2edd66b5-cf5f-4505-8eb7-c44718c954b4@1aa40",
+    "assetFinder": {
+      "meshes": [
+        "2edd66b5-cf5f-4505-8eb7-c44718c954b4@39844",
+        "2edd66b5-cf5f-4505-8eb7-c44718c954b4@049d0",
+        "2edd66b5-cf5f-4505-8eb7-c44718c954b4@c76a6"
+      ],
+      "skeletons": [],
+      "textures": [
+        "2edd66b5-cf5f-4505-8eb7-c44718c954b4@ae3ea"
+      ],
+      "materials": [
+        "2edd66b5-cf5f-4505-8eb7-c44718c954b4@48f8a"
+      ],
+      "scenes": [
+        "2edd66b5-cf5f-4505-8eb7-c44718c954b4@1aa40"
+      ]
+    }
+  }
+}

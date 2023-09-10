@@ -1,0 +1,125 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "f4a19a35-b957-463f-ac4d-76e70a50d9b5",
+  "files": [],
+  "subMetas": {
+    "32d5a": {
+      "importer": "gltf-mesh",
+      "uuid": "f4a19a35-b957-463f-ac4d-76e70a50d9b5@32d5a",
+      "displayName": "",
+      "id": "32d5a",
+      "name": "SM_Env_Quarry_Brick_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "f4a19a35-b957-463f-ac4d-76e70a50d9b5@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "f4a19a35-b957-463f-ac4d-76e70a50d9b5@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "f4a19a35-b957-463f-ac4d-76e70a50d9b5@d63f7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "f4a19a35-b957-463f-ac4d-76e70a50d9b5@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bc4a2": {
+      "importer": "gltf-scene",
+      "uuid": "f4a19a35-b957-463f-ac4d-76e70a50d9b5@bc4a2",
+      "displayName": "",
+      "id": "bc4a2",
+      "name": "SM_Env_Quarry_Brick_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "uri": "f4a19a35-b957-463f-ac4d-76e70a50d9b5@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "f4a19a35-b957-463f-ac4d-76e70a50d9b5@bc4a2",
+    "assetFinder": {
+      "meshes": [
+        "f4a19a35-b957-463f-ac4d-76e70a50d9b5@32d5a"
+      ],
+      "skeletons": [],
+      "textures": [
+        "f4a19a35-b957-463f-ac4d-76e70a50d9b5@ae3ea"
+      ],
+      "materials": [
+        "f4a19a35-b957-463f-ac4d-76e70a50d9b5@48f8a"
+      ],
+      "scenes": [
+        "f4a19a35-b957-463f-ac4d-76e70a50d9b5@bc4a2"
+      ]
+    }
+  }
+}

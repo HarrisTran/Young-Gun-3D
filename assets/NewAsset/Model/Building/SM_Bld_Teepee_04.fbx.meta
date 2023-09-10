@@ -1,0 +1,126 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "704b5db7-88f1-4458-a56e-f45afb0aed03",
+  "files": [],
+  "subMetas": {
+    "0919a": {
+      "importer": "gltf-mesh",
+      "uuid": "704b5db7-88f1-4458-a56e-f45afb0aed03@0919a",
+      "displayName": "",
+      "id": "0919a",
+      "name": "SM_Bld_Teepee_03.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "21b6d": {
+      "importer": "gltf-embeded-image",
+      "uuid": "704b5db7-88f1-4458-a56e-f45afb0aed03@21b6d",
+      "displayName": "",
+      "id": "21b6d",
+      "name": "file787.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "e3355": {
+      "importer": "texture",
+      "uuid": "704b5db7-88f1-4458-a56e-f45afb0aed03@e3355",
+      "displayName": "",
+      "id": "e3355",
+      "name": "file787.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "38b97": {
+      "importer": "gltf-material",
+      "uuid": "704b5db7-88f1-4458-a56e-f45afb0aed03@38b97",
+      "displayName": "",
+      "id": "38b97",
+      "name": "Frontier2.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "666fd": {
+      "importer": "gltf-scene",
+      "uuid": "704b5db7-88f1-4458-a56e-f45afb0aed03@666fd",
+      "displayName": "",
+      "id": "666fd",
+      "name": "SM_Bld_Teepee_04.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file787",
+        "remap": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_01_A.png",
+        "uri": "704b5db7-88f1-4458-a56e-f45afb0aed03@21b6d"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "704b5db7-88f1-4458-a56e-f45afb0aed03@666fd",
+    "assetFinder": {
+      "meshes": [
+        "704b5db7-88f1-4458-a56e-f45afb0aed03@0919a"
+      ],
+      "skeletons": [],
+      "textures": [
+        "704b5db7-88f1-4458-a56e-f45afb0aed03@e3355"
+      ],
+      "materials": [
+        "704b5db7-88f1-4458-a56e-f45afb0aed03@38b97"
+      ],
+      "scenes": [
+        "704b5db7-88f1-4458-a56e-f45afb0aed03@666fd"
+      ]
+    }
+  }
+}

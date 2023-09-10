@@ -1,0 +1,198 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "fbc7a04d-72e3-4e45-89cf-9c2e2397a0c0",
+  "files": [],
+  "subMetas": {
+    "df0d4": {
+      "importer": "gltf-mesh",
+      "uuid": "fbc7a04d-72e3-4e45-89cf-9c2e2397a0c0@df0d4",
+      "displayName": "",
+      "id": "df0d4",
+      "name": "SM_Bld_Barn_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8ba69": {
+      "importer": "gltf-mesh",
+      "uuid": "fbc7a04d-72e3-4e45-89cf-9c2e2397a0c0@8ba69",
+      "displayName": "",
+      "id": "8ba69",
+      "name": "SM_Bld_Barn_Door_01.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "721c4": {
+      "importer": "gltf-mesh",
+      "uuid": "fbc7a04d-72e3-4e45-89cf-9c2e2397a0c0@721c4",
+      "displayName": "",
+      "id": "721c4",
+      "name": "SM_Bld_Barn_Door_02.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b6f81": {
+      "importer": "gltf-mesh",
+      "uuid": "fbc7a04d-72e3-4e45-89cf-9c2e2397a0c0@b6f81",
+      "displayName": "",
+      "id": "b6f81",
+      "name": "SM_Bld_Barn_Door_03.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "aa4d1": {
+      "importer": "gltf-mesh",
+      "uuid": "fbc7a04d-72e3-4e45-89cf-9c2e2397a0c0@aa4d1",
+      "displayName": "",
+      "id": "aa4d1",
+      "name": "SM_Bld_Barn_Door_04.mesh",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "fbc7a04d-72e3-4e45-89cf-9c2e2397a0c0@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "fbc7a04d-72e3-4e45-89cf-9c2e2397a0c0@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "fbc7a04d-72e3-4e45-89cf-9c2e2397a0c0@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "51e3a": {
+      "importer": "gltf-scene",
+      "uuid": "fbc7a04d-72e3-4e45-89cf-9c2e2397a0c0@51e3a",
+      "displayName": "",
+      "id": "51e3a",
+      "name": "SM_Bld_Barn_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "remap": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_01_A.png",
+        "uri": "fbc7a04d-72e3-4e45-89cf-9c2e2397a0c0@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "fbc7a04d-72e3-4e45-89cf-9c2e2397a0c0@51e3a",
+    "assetFinder": {
+      "meshes": [
+        "fbc7a04d-72e3-4e45-89cf-9c2e2397a0c0@df0d4",
+        "fbc7a04d-72e3-4e45-89cf-9c2e2397a0c0@8ba69",
+        "fbc7a04d-72e3-4e45-89cf-9c2e2397a0c0@721c4",
+        "fbc7a04d-72e3-4e45-89cf-9c2e2397a0c0@b6f81",
+        "fbc7a04d-72e3-4e45-89cf-9c2e2397a0c0@aa4d1"
+      ],
+      "skeletons": [],
+      "textures": [
+        "fbc7a04d-72e3-4e45-89cf-9c2e2397a0c0@ae3ea"
+      ],
+      "materials": [
+        "fbc7a04d-72e3-4e45-89cf-9c2e2397a0c0@48f8a"
+      ],
+      "scenes": [
+        "fbc7a04d-72e3-4e45-89cf-9c2e2397a0c0@51e3a"
+      ]
+    }
+  }
+}

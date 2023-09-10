@@ -1,0 +1,126 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "2813c28a-86ca-4fdf-965d-694a21ad47c8",
+  "files": [],
+  "subMetas": {
+    "438d9": {
+      "importer": "gltf-mesh",
+      "uuid": "2813c28a-86ca-4fdf-965d-694a21ad47c8@438d9",
+      "displayName": "",
+      "id": "438d9",
+      "name": "SM_Bld_Fort_Walkway_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "2813c28a-86ca-4fdf-965d-694a21ad47c8@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "2813c28a-86ca-4fdf-965d-694a21ad47c8@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "2813c28a-86ca-4fdf-965d-694a21ad47c8@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "316fc": {
+      "importer": "gltf-scene",
+      "uuid": "2813c28a-86ca-4fdf-965d-694a21ad47c8@316fc",
+      "displayName": "",
+      "id": "316fc",
+      "name": "SM_Bld_Fort_Walkway_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "remap": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_01_A.png",
+        "uri": "2813c28a-86ca-4fdf-965d-694a21ad47c8@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "2813c28a-86ca-4fdf-965d-694a21ad47c8@316fc",
+    "assetFinder": {
+      "meshes": [
+        "2813c28a-86ca-4fdf-965d-694a21ad47c8@438d9"
+      ],
+      "skeletons": [],
+      "textures": [
+        "2813c28a-86ca-4fdf-965d-694a21ad47c8@ae3ea"
+      ],
+      "materials": [
+        "2813c28a-86ca-4fdf-965d-694a21ad47c8@48f8a"
+      ],
+      "scenes": [
+        "2813c28a-86ca-4fdf-965d-694a21ad47c8@316fc"
+      ]
+    }
+  }
+}

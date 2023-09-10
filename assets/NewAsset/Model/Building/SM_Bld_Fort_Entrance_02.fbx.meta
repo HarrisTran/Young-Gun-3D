@@ -1,0 +1,180 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "158b161c-2c12-434a-a8ef-9dc72ad512f1",
+  "files": [],
+  "subMetas": {
+    "27931": {
+      "importer": "gltf-mesh",
+      "uuid": "158b161c-2c12-434a-a8ef-9dc72ad512f1@27931",
+      "displayName": "",
+      "id": "27931",
+      "name": "SM_Bld_Fort_Entrance_02_Door_02.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "71176": {
+      "importer": "gltf-mesh",
+      "uuid": "158b161c-2c12-434a-a8ef-9dc72ad512f1@71176",
+      "displayName": "",
+      "id": "71176",
+      "name": "SM_Bld_Fort_Entrance_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "22a89": {
+      "importer": "gltf-mesh",
+      "uuid": "158b161c-2c12-434a-a8ef-9dc72ad512f1@22a89",
+      "displayName": "",
+      "id": "22a89",
+      "name": "SM_Bld_Fort_Entrance_02_Door_01.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ecc8a": {
+      "importer": "gltf-mesh",
+      "uuid": "158b161c-2c12-434a-a8ef-9dc72ad512f1@ecc8a",
+      "displayName": "",
+      "id": "ecc8a",
+      "name": "SM_Bld_Fort_Entrance_02_Walkway.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "158b161c-2c12-434a-a8ef-9dc72ad512f1@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "158b161c-2c12-434a-a8ef-9dc72ad512f1@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "158b161c-2c12-434a-a8ef-9dc72ad512f1@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3aa4b": {
+      "importer": "gltf-scene",
+      "uuid": "158b161c-2c12-434a-a8ef-9dc72ad512f1@3aa4b",
+      "displayName": "",
+      "id": "3aa4b",
+      "name": "SM_Bld_Fort_Entrance_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "remap": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_01_A.png",
+        "uri": "158b161c-2c12-434a-a8ef-9dc72ad512f1@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "158b161c-2c12-434a-a8ef-9dc72ad512f1@3aa4b",
+    "assetFinder": {
+      "meshes": [
+        "158b161c-2c12-434a-a8ef-9dc72ad512f1@71176",
+        "158b161c-2c12-434a-a8ef-9dc72ad512f1@22a89",
+        "158b161c-2c12-434a-a8ef-9dc72ad512f1@27931",
+        "158b161c-2c12-434a-a8ef-9dc72ad512f1@ecc8a"
+      ],
+      "skeletons": [],
+      "textures": [
+        "158b161c-2c12-434a-a8ef-9dc72ad512f1@ae3ea"
+      ],
+      "materials": [
+        "158b161c-2c12-434a-a8ef-9dc72ad512f1@48f8a"
+      ],
+      "scenes": [
+        "158b161c-2c12-434a-a8ef-9dc72ad512f1@3aa4b"
+      ]
+    }
+  }
+}

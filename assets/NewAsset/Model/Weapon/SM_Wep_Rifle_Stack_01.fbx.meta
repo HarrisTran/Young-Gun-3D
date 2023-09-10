@@ -1,0 +1,125 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "af6a01c0-4d50-458c-93b2-f18309af5d0a",
+  "files": [],
+  "subMetas": {
+    "79144": {
+      "importer": "gltf-mesh",
+      "uuid": "af6a01c0-4d50-458c-93b2-f18309af5d0a@79144",
+      "displayName": "",
+      "id": "79144",
+      "name": "SM_Wep_Rifle_Stack_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4f879": {
+      "importer": "gltf-embeded-image",
+      "uuid": "af6a01c0-4d50-458c-93b2-f18309af5d0a@4f879",
+      "displayName": "",
+      "id": "4f879",
+      "name": "file866.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "098c8": {
+      "importer": "texture",
+      "uuid": "af6a01c0-4d50-458c-93b2-f18309af5d0a@098c8",
+      "displayName": "",
+      "id": "098c8",
+      "name": "file866.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "af6a01c0-4d50-458c-93b2-f18309af5d0a@4f879"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "72ccd": {
+      "importer": "gltf-material",
+      "uuid": "af6a01c0-4d50-458c-93b2-f18309af5d0a@72ccd",
+      "displayName": "",
+      "id": "72ccd",
+      "name": "Frontier4.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fd094": {
+      "importer": "gltf-scene",
+      "uuid": "af6a01c0-4d50-458c-93b2-f18309af5d0a@fd094",
+      "displayName": "",
+      "id": "fd094",
+      "name": "SM_Wep_Rifle_Stack_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file866",
+        "uri": "af6a01c0-4d50-458c-93b2-f18309af5d0a@4f879"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "af6a01c0-4d50-458c-93b2-f18309af5d0a@fd094",
+    "assetFinder": {
+      "meshes": [
+        "af6a01c0-4d50-458c-93b2-f18309af5d0a@79144"
+      ],
+      "skeletons": [],
+      "textures": [
+        "af6a01c0-4d50-458c-93b2-f18309af5d0a@098c8"
+      ],
+      "materials": [
+        "af6a01c0-4d50-458c-93b2-f18309af5d0a@72ccd"
+      ],
+      "scenes": [
+        "af6a01c0-4d50-458c-93b2-f18309af5d0a@fd094"
+      ]
+    }
+  }
+}

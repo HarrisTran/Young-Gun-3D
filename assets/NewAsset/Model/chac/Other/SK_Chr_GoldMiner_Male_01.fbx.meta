@@ -1,0 +1,144 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "4873fddc-33e7-49d3-8e03-6e8d8c516433",
+  "files": [],
+  "subMetas": {
+    "e7793": {
+      "importer": "gltf-mesh",
+      "uuid": "4873fddc-33e7-49d3-8e03-6e8d8c516433@e7793",
+      "displayName": "",
+      "id": "e7793",
+      "name": "SK_Chr_GoldMiner_Male_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "4873fddc-33e7-49d3-8e03-6e8d8c516433@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 48
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "4873fddc-33e7-49d3-8e03-6e8d8c516433@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "4873fddc-33e7-49d3-8e03-6e8d8c516433@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "4873fddc-33e7-49d3-8e03-6e8d8c516433@d63f7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "4873fddc-33e7-49d3-8e03-6e8d8c516433@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6c7bc": {
+      "importer": "gltf-scene",
+      "uuid": "4873fddc-33e7-49d3-8e03-6e8d8c516433@6c7bc",
+      "displayName": "",
+      "id": "6c7bc",
+      "name": "SK_Chr_GoldMiner_Male_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "uri": "4873fddc-33e7-49d3-8e03-6e8d8c516433@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "4873fddc-33e7-49d3-8e03-6e8d8c516433@6c7bc",
+    "assetFinder": {
+      "meshes": [
+        "4873fddc-33e7-49d3-8e03-6e8d8c516433@e7793"
+      ],
+      "skeletons": [
+        "4873fddc-33e7-49d3-8e03-6e8d8c516433@438fe"
+      ],
+      "textures": [
+        "4873fddc-33e7-49d3-8e03-6e8d8c516433@ae3ea"
+      ],
+      "materials": [
+        "4873fddc-33e7-49d3-8e03-6e8d8c516433@48f8a"
+      ],
+      "scenes": [
+        "4873fddc-33e7-49d3-8e03-6e8d8c516433@6c7bc"
+      ]
+    }
+  }
+}

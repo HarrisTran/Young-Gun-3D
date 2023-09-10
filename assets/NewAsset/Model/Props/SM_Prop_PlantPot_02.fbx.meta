@@ -1,0 +1,125 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "cdd22d2a-baed-49c4-ba11-2da59c4f2b23",
+  "files": [],
+  "subMetas": {
+    "173ce": {
+      "importer": "gltf-mesh",
+      "uuid": "cdd22d2a-baed-49c4-ba11-2da59c4f2b23@173ce",
+      "displayName": "",
+      "id": "173ce",
+      "name": "SM_Prop_PlantPot_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "cdd22d2a-baed-49c4-ba11-2da59c4f2b23@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "cdd22d2a-baed-49c4-ba11-2da59c4f2b23@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "cdd22d2a-baed-49c4-ba11-2da59c4f2b23@d63f7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "cdd22d2a-baed-49c4-ba11-2da59c4f2b23@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6e424": {
+      "importer": "gltf-scene",
+      "uuid": "cdd22d2a-baed-49c4-ba11-2da59c4f2b23@6e424",
+      "displayName": "",
+      "id": "6e424",
+      "name": "SM_Prop_PlantPot_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "uri": "cdd22d2a-baed-49c4-ba11-2da59c4f2b23@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "cdd22d2a-baed-49c4-ba11-2da59c4f2b23@6e424",
+    "assetFinder": {
+      "meshes": [
+        "cdd22d2a-baed-49c4-ba11-2da59c4f2b23@173ce"
+      ],
+      "skeletons": [],
+      "textures": [
+        "cdd22d2a-baed-49c4-ba11-2da59c4f2b23@ae3ea"
+      ],
+      "materials": [
+        "cdd22d2a-baed-49c4-ba11-2da59c4f2b23@48f8a"
+      ],
+      "scenes": [
+        "cdd22d2a-baed-49c4-ba11-2da59c4f2b23@6e424"
+      ]
+    }
+  }
+}

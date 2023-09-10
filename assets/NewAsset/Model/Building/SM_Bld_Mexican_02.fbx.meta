@@ -1,0 +1,144 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "70cc2558-a36c-46c0-8ec7-aa59f4cae85f",
+  "files": [],
+  "subMetas": {
+    "06716": {
+      "importer": "gltf-mesh",
+      "uuid": "70cc2558-a36c-46c0-8ec7-aa59f4cae85f@06716",
+      "displayName": "",
+      "id": "06716",
+      "name": "SM_Bld_Mexican_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "90c73": {
+      "importer": "gltf-mesh",
+      "uuid": "70cc2558-a36c-46c0-8ec7-aa59f4cae85f@90c73",
+      "displayName": "",
+      "id": "90c73",
+      "name": "SM_Bld_Mexican_02_Door_01.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "70cc2558-a36c-46c0-8ec7-aa59f4cae85f@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "70cc2558-a36c-46c0-8ec7-aa59f4cae85f@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "70cc2558-a36c-46c0-8ec7-aa59f4cae85f@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ec1d9": {
+      "importer": "gltf-scene",
+      "uuid": "70cc2558-a36c-46c0-8ec7-aa59f4cae85f@ec1d9",
+      "displayName": "",
+      "id": "ec1d9",
+      "name": "SM_Bld_Mexican_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "remap": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_01_A.png",
+        "uri": "70cc2558-a36c-46c0-8ec7-aa59f4cae85f@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "70cc2558-a36c-46c0-8ec7-aa59f4cae85f@ec1d9",
+    "assetFinder": {
+      "meshes": [
+        "70cc2558-a36c-46c0-8ec7-aa59f4cae85f@06716",
+        "70cc2558-a36c-46c0-8ec7-aa59f4cae85f@90c73"
+      ],
+      "skeletons": [],
+      "textures": [
+        "70cc2558-a36c-46c0-8ec7-aa59f4cae85f@ae3ea"
+      ],
+      "materials": [
+        "70cc2558-a36c-46c0-8ec7-aa59f4cae85f@48f8a"
+      ],
+      "scenes": [
+        "70cc2558-a36c-46c0-8ec7-aa59f4cae85f@ec1d9"
+      ]
+    }
+  }
+}

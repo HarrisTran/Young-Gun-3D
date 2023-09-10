@@ -1,0 +1,125 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "94a22829-1f41-40d8-8fb5-aa953ed73717",
+  "files": [],
+  "subMetas": {
+    "dc96c": {
+      "importer": "gltf-mesh",
+      "uuid": "94a22829-1f41-40d8-8fb5-aa953ed73717@dc96c",
+      "displayName": "",
+      "id": "dc96c",
+      "name": "SM_Env_Mine_Track_Frame_03.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "94a22829-1f41-40d8-8fb5-aa953ed73717@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "94a22829-1f41-40d8-8fb5-aa953ed73717@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "94a22829-1f41-40d8-8fb5-aa953ed73717@d63f7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "94a22829-1f41-40d8-8fb5-aa953ed73717@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "24b57": {
+      "importer": "gltf-scene",
+      "uuid": "94a22829-1f41-40d8-8fb5-aa953ed73717@24b57",
+      "displayName": "",
+      "id": "24b57",
+      "name": "SM_Env_Mine_Track_Frame_03.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "uri": "94a22829-1f41-40d8-8fb5-aa953ed73717@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "94a22829-1f41-40d8-8fb5-aa953ed73717@24b57",
+    "assetFinder": {
+      "meshes": [
+        "94a22829-1f41-40d8-8fb5-aa953ed73717@dc96c"
+      ],
+      "skeletons": [],
+      "textures": [
+        "94a22829-1f41-40d8-8fb5-aa953ed73717@ae3ea"
+      ],
+      "materials": [
+        "94a22829-1f41-40d8-8fb5-aa953ed73717@48f8a"
+      ],
+      "scenes": [
+        "94a22829-1f41-40d8-8fb5-aa953ed73717@24b57"
+      ]
+    }
+  }
+}

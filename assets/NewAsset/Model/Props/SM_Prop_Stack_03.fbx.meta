@@ -1,0 +1,194 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "063136bb-9816-43b8-8b64-b8852819ee58",
+  "files": [],
+  "subMetas": {
+    "66331": {
+      "importer": "gltf-material",
+      "uuid": "063136bb-9816-43b8-8b64-b8852819ee58@66331",
+      "displayName": "",
+      "id": "66331",
+      "name": "Frontier6.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c587b": {
+      "importer": "gltf-mesh",
+      "uuid": "063136bb-9816-43b8-8b64-b8852819ee58@c587b",
+      "displayName": "",
+      "id": "c587b",
+      "name": "SM_Prop_Stack_03_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "063136bb-9816-43b8-8b64-b8852819ee58@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "063136bb-9816-43b8-8b64-b8852819ee58@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bb72e": {
+      "importer": "gltf-material",
+      "uuid": "063136bb-9816-43b8-8b64-b8852819ee58@bb72e",
+      "displayName": "",
+      "id": "bb72e",
+      "name": "Frontier11.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "be801": {
+      "importer": "gltf-material",
+      "uuid": "063136bb-9816-43b8-8b64-b8852819ee58@be801",
+      "displayName": "",
+      "id": "be801",
+      "name": "Frontier12.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5b1b5": {
+      "importer": "gltf-material",
+      "uuid": "063136bb-9816-43b8-8b64-b8852819ee58@5b1b5",
+      "displayName": "",
+      "id": "5b1b5",
+      "name": "Frontier15.material",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "38b97": {
+      "importer": "gltf-material",
+      "uuid": "063136bb-9816-43b8-8b64-b8852819ee58@38b97",
+      "displayName": "",
+      "id": "38b97",
+      "name": "Frontier2.material",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cbf70": {
+      "importer": "gltf-scene",
+      "uuid": "063136bb-9816-43b8-8b64-b8852819ee58@cbf70",
+      "displayName": "",
+      "id": "cbf70",
+      "name": "SM_Prop_Stack_03.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "remap": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_01_A.png",
+        "uri": "063136bb-9816-43b8-8b64-b8852819ee58@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "063136bb-9816-43b8-8b64-b8852819ee58@cbf70",
+    "assetFinder": {
+      "meshes": [
+        "063136bb-9816-43b8-8b64-b8852819ee58@c587b"
+      ],
+      "skeletons": [],
+      "textures": [
+        "063136bb-9816-43b8-8b64-b8852819ee58@ae3ea"
+      ],
+      "materials": [
+        "063136bb-9816-43b8-8b64-b8852819ee58@66331",
+        "063136bb-9816-43b8-8b64-b8852819ee58@bb72e",
+        "063136bb-9816-43b8-8b64-b8852819ee58@be801",
+        "063136bb-9816-43b8-8b64-b8852819ee58@5b1b5",
+        "063136bb-9816-43b8-8b64-b8852819ee58@38b97"
+      ],
+      "scenes": [
+        "063136bb-9816-43b8-8b64-b8852819ee58@cbf70"
+      ]
+    }
+  }
+}

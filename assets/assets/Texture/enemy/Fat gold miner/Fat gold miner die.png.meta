@@ -1,0 +1,134 @@
+{
+  "ver": "1.0.25",
+  "importer": "image",
+  "imported": true,
+  "uuid": "ecadc1a0-c72e-4dd1-b7a6-8fbf625ebfd3",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "ecadc1a0-c72e-4dd1-b7a6-8fbf625ebfd3@6c48a",
+      "displayName": "Fat gold miner die",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "clamp-to-edge",
+        "wrapModeT": "clamp-to-edge",
+        "imageUuidOrDatabaseUri": "ecadc1a0-c72e-4dd1-b7a6-8fbf625ebfd3",
+        "isUuid": true,
+        "visible": false,
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "ecadc1a0-c72e-4dd1-b7a6-8fbf625ebfd3@f9941",
+      "displayName": "Fat gold miner die",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 71.5,
+        "offsetY": -22,
+        "trimX": 868,
+        "trimY": 257,
+        "width": 907,
+        "height": 2030,
+        "rawWidth": 2500,
+        "rawHeight": 2500,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [
+            -453.5,
+            -1015,
+            0,
+            453.5,
+            -1015,
+            0,
+            -453.5,
+            1015,
+            0,
+            453.5,
+            1015,
+            0
+          ],
+          "indexes": [
+            0,
+            1,
+            2,
+            2,
+            1,
+            3
+          ],
+          "uv": [
+            868,
+            2243,
+            1775,
+            2243,
+            868,
+            213,
+            1775,
+            213
+          ],
+          "nuv": [
+            0.3472,
+            0.0852,
+            0.71,
+            0.0852,
+            0.3472,
+            0.8972,
+            0.71,
+            0.8972
+          ],
+          "minPos": [
+            -453.5,
+            -1015,
+            0
+          ],
+          "maxPos": [
+            453.5,
+            1015,
+            0
+          ]
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "ecadc1a0-c72e-4dd1-b7a6-8fbf625ebfd3@6c48a",
+        "atlasUuid": ""
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": true,
+    "redirect": "ecadc1a0-c72e-4dd1-b7a6-8fbf625ebfd3@f9941"
+  }
+}

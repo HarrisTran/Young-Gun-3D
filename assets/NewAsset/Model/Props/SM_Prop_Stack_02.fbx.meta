@@ -1,0 +1,245 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "7854311d-24cf-4056-9157-c0050f9aebb3",
+  "files": [],
+  "subMetas": {
+    "12511": {
+      "importer": "gltf-material",
+      "uuid": "7854311d-24cf-4056-9157-c0050f9aebb3@12511",
+      "displayName": "",
+      "id": "12511",
+      "name": "Frontier5.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9bb29": {
+      "importer": "gltf-mesh",
+      "uuid": "7854311d-24cf-4056-9157-c0050f9aebb3@9bb29",
+      "displayName": "",
+      "id": "9bb29",
+      "name": "SM_Prop_Stack_02_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "7854311d-24cf-4056-9157-c0050f9aebb3@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "7854311d-24cf-4056-9157-c0050f9aebb3@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "7854311d-24cf-4056-9157-c0050f9aebb3@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cf9dd": {
+      "importer": "gltf-material",
+      "uuid": "7854311d-24cf-4056-9157-c0050f9aebb3@cf9dd",
+      "displayName": "",
+      "id": "cf9dd",
+      "name": "Frontier8.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "288db": {
+      "importer": "gltf-material",
+      "uuid": "7854311d-24cf-4056-9157-c0050f9aebb3@288db",
+      "displayName": "",
+      "id": "288db",
+      "name": "Frontier10.material",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "43bc8": {
+      "importer": "gltf-material",
+      "uuid": "7854311d-24cf-4056-9157-c0050f9aebb3@43bc8",
+      "displayName": "",
+      "id": "43bc8",
+      "name": "Frontier14.material",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bf4c5": {
+      "importer": "gltf-material",
+      "uuid": "7854311d-24cf-4056-9157-c0050f9aebb3@bf4c5",
+      "displayName": "",
+      "id": "bf4c5",
+      "name": "Frontier16.material",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1803e": {
+      "importer": "gltf-material",
+      "uuid": "7854311d-24cf-4056-9157-c0050f9aebb3@1803e",
+      "displayName": "",
+      "id": "1803e",
+      "name": "Frontier1.material",
+      "userData": {
+        "gltfIndex": 6
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "38b97": {
+      "importer": "gltf-material",
+      "uuid": "7854311d-24cf-4056-9157-c0050f9aebb3@38b97",
+      "displayName": "",
+      "id": "38b97",
+      "name": "Frontier2.material",
+      "userData": {
+        "gltfIndex": 7
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c830d": {
+      "importer": "gltf-scene",
+      "uuid": "7854311d-24cf-4056-9157-c0050f9aebb3@c830d",
+      "displayName": "",
+      "id": "c830d",
+      "name": "SM_Prop_Stack_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "remap": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_01_A.png",
+        "uri": "7854311d-24cf-4056-9157-c0050f9aebb3@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "7854311d-24cf-4056-9157-c0050f9aebb3@c830d",
+    "assetFinder": {
+      "meshes": [
+        "7854311d-24cf-4056-9157-c0050f9aebb3@9bb29"
+      ],
+      "skeletons": [],
+      "textures": [
+        "7854311d-24cf-4056-9157-c0050f9aebb3@ae3ea"
+      ],
+      "materials": [
+        "7854311d-24cf-4056-9157-c0050f9aebb3@48f8a",
+        "7854311d-24cf-4056-9157-c0050f9aebb3@12511",
+        "7854311d-24cf-4056-9157-c0050f9aebb3@cf9dd",
+        "7854311d-24cf-4056-9157-c0050f9aebb3@288db",
+        "7854311d-24cf-4056-9157-c0050f9aebb3@43bc8",
+        "7854311d-24cf-4056-9157-c0050f9aebb3@bf4c5",
+        "7854311d-24cf-4056-9157-c0050f9aebb3@1803e",
+        "7854311d-24cf-4056-9157-c0050f9aebb3@38b97"
+      ],
+      "scenes": [
+        "7854311d-24cf-4056-9157-c0050f9aebb3@c830d"
+      ]
+    }
+  }
+}

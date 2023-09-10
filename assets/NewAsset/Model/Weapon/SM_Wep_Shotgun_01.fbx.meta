@@ -1,0 +1,198 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "53056979-e714-4bf9-9677-4469fb457a3f",
+  "files": [],
+  "subMetas": {
+    "0b1ab": {
+      "importer": "gltf-mesh",
+      "uuid": "53056979-e714-4bf9-9677-4469fb457a3f@0b1ab",
+      "displayName": "",
+      "id": "0b1ab",
+      "name": "SM_Wep_Shotgun_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "efff0": {
+      "importer": "gltf-mesh",
+      "uuid": "53056979-e714-4bf9-9677-4469fb457a3f@efff0",
+      "displayName": "",
+      "id": "efff0",
+      "name": "SM_Wep_Shotgun_01_Trigger.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "be10d": {
+      "importer": "gltf-mesh",
+      "uuid": "53056979-e714-4bf9-9677-4469fb457a3f@be10d",
+      "displayName": "",
+      "id": "be10d",
+      "name": "SM_Wep_Revolver_01_Hammer_R.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cb24f": {
+      "importer": "gltf-mesh",
+      "uuid": "53056979-e714-4bf9-9677-4469fb457a3f@cb24f",
+      "displayName": "",
+      "id": "cb24f",
+      "name": "SM_Wep_Revolver_01_Hammer_L.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "61d69": {
+      "importer": "gltf-mesh",
+      "uuid": "53056979-e714-4bf9-9677-4469fb457a3f@61d69",
+      "displayName": "",
+      "id": "61d69",
+      "name": "SM_Wep_Shotgun_01_Break.mesh",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4f879": {
+      "importer": "gltf-embeded-image",
+      "uuid": "53056979-e714-4bf9-9677-4469fb457a3f@4f879",
+      "displayName": "",
+      "id": "4f879",
+      "name": "file866.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "098c8": {
+      "importer": "texture",
+      "uuid": "53056979-e714-4bf9-9677-4469fb457a3f@098c8",
+      "displayName": "",
+      "id": "098c8",
+      "name": "file866.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "72ccd": {
+      "importer": "gltf-material",
+      "uuid": "53056979-e714-4bf9-9677-4469fb457a3f@72ccd",
+      "displayName": "",
+      "id": "72ccd",
+      "name": "Frontier4.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0a8ac": {
+      "importer": "gltf-scene",
+      "uuid": "53056979-e714-4bf9-9677-4469fb457a3f@0a8ac",
+      "displayName": "",
+      "id": "0a8ac",
+      "name": "SM_Wep_Shotgun_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file866",
+        "remap": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_01_A.png",
+        "uri": "53056979-e714-4bf9-9677-4469fb457a3f@4f879"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "53056979-e714-4bf9-9677-4469fb457a3f@0a8ac",
+    "assetFinder": {
+      "meshes": [
+        "53056979-e714-4bf9-9677-4469fb457a3f@0b1ab",
+        "53056979-e714-4bf9-9677-4469fb457a3f@efff0",
+        "53056979-e714-4bf9-9677-4469fb457a3f@be10d",
+        "53056979-e714-4bf9-9677-4469fb457a3f@cb24f",
+        "53056979-e714-4bf9-9677-4469fb457a3f@61d69"
+      ],
+      "skeletons": [],
+      "textures": [
+        "53056979-e714-4bf9-9677-4469fb457a3f@098c8"
+      ],
+      "materials": [
+        "53056979-e714-4bf9-9677-4469fb457a3f@72ccd"
+      ],
+      "scenes": [
+        "53056979-e714-4bf9-9677-4469fb457a3f@0a8ac"
+      ]
+    }
+  }
+}

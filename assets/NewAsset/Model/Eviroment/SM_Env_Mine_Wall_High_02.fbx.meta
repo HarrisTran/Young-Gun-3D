@@ -1,0 +1,125 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "b9475cc5-6673-48b6-9f45-63f06f73d81d",
+  "files": [],
+  "subMetas": {
+    "941da": {
+      "importer": "gltf-mesh",
+      "uuid": "b9475cc5-6673-48b6-9f45-63f06f73d81d@941da",
+      "displayName": "",
+      "id": "941da",
+      "name": "SM_Env_Mine_Wall_High_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "b9475cc5-6673-48b6-9f45-63f06f73d81d@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "b9475cc5-6673-48b6-9f45-63f06f73d81d@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "b9475cc5-6673-48b6-9f45-63f06f73d81d@d63f7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "b9475cc5-6673-48b6-9f45-63f06f73d81d@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4287f": {
+      "importer": "gltf-scene",
+      "uuid": "b9475cc5-6673-48b6-9f45-63f06f73d81d@4287f",
+      "displayName": "",
+      "id": "4287f",
+      "name": "SM_Env_Mine_Wall_High_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "uri": "b9475cc5-6673-48b6-9f45-63f06f73d81d@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "b9475cc5-6673-48b6-9f45-63f06f73d81d@4287f",
+    "assetFinder": {
+      "meshes": [
+        "b9475cc5-6673-48b6-9f45-63f06f73d81d@941da"
+      ],
+      "skeletons": [],
+      "textures": [
+        "b9475cc5-6673-48b6-9f45-63f06f73d81d@ae3ea"
+      ],
+      "materials": [
+        "b9475cc5-6673-48b6-9f45-63f06f73d81d@48f8a"
+      ],
+      "scenes": [
+        "b9475cc5-6673-48b6-9f45-63f06f73d81d@4287f"
+      ]
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "ad7098de-9a6d-47b3-9862-ed12efafc65f",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "529e9": {
+      "importer": "gltf-animation",
+      "uuid": "ad7098de-9a6d-47b3-9862-ed12efafc65f@529e9",
+      "displayName": "",
+      "id": "529e9",
+      "name": "PistolIdle.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.3666666746139526
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "07403": {
+      "importer": "gltf-scene",
+      "uuid": "ad7098de-9a6d-47b3-9862-ed12efafc65f@07403",
+      "displayName": "",
+      "id": "07403",
+      "name": "Pistol Idle.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "animationImportSettings": [
+      {
+        "name": "mixamo.com",
+        "duration": 1.3666666746139526,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "PistolIdle",
+            "from": 0,
+            "to": 1.3666666746139526,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "ad7098de-9a6d-47b3-9862-ed12efafc65f@07403",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "ad7098de-9a6d-47b3-9862-ed12efafc65f@07403"
+      ]
+    }
+  }
+}

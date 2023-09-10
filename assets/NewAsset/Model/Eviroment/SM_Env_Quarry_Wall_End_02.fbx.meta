@@ -1,0 +1,125 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "1b41a24c-9608-48aa-8b7e-279a37fb6a49",
+  "files": [],
+  "subMetas": {
+    "7418f": {
+      "importer": "gltf-mesh",
+      "uuid": "1b41a24c-9608-48aa-8b7e-279a37fb6a49@7418f",
+      "displayName": "",
+      "id": "7418f",
+      "name": "SM_Env_Quarry_Wall_End_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "1b41a24c-9608-48aa-8b7e-279a37fb6a49@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "1b41a24c-9608-48aa-8b7e-279a37fb6a49@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "1b41a24c-9608-48aa-8b7e-279a37fb6a49@d63f7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "1b41a24c-9608-48aa-8b7e-279a37fb6a49@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a485a": {
+      "importer": "gltf-scene",
+      "uuid": "1b41a24c-9608-48aa-8b7e-279a37fb6a49@a485a",
+      "displayName": "",
+      "id": "a485a",
+      "name": "SM_Env_Quarry_Wall_End_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "uri": "1b41a24c-9608-48aa-8b7e-279a37fb6a49@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "1b41a24c-9608-48aa-8b7e-279a37fb6a49@a485a",
+    "assetFinder": {
+      "meshes": [
+        "1b41a24c-9608-48aa-8b7e-279a37fb6a49@7418f"
+      ],
+      "skeletons": [],
+      "textures": [
+        "1b41a24c-9608-48aa-8b7e-279a37fb6a49@ae3ea"
+      ],
+      "materials": [
+        "1b41a24c-9608-48aa-8b7e-279a37fb6a49@48f8a"
+      ],
+      "scenes": [
+        "1b41a24c-9608-48aa-8b7e-279a37fb6a49@a485a"
+      ]
+    }
+  }
+}

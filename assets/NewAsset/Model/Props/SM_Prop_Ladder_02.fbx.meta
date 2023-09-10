@@ -1,0 +1,125 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "3ecf78b5-976a-4135-b869-4b7aab2c5c14",
+  "files": [],
+  "subMetas": {
+    "b887c": {
+      "importer": "gltf-mesh",
+      "uuid": "3ecf78b5-976a-4135-b869-4b7aab2c5c14@b887c",
+      "displayName": "",
+      "id": "b887c",
+      "name": "SM_Prop_Ladder_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "3ecf78b5-976a-4135-b869-4b7aab2c5c14@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "3ecf78b5-976a-4135-b869-4b7aab2c5c14@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "3ecf78b5-976a-4135-b869-4b7aab2c5c14@d63f7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "3ecf78b5-976a-4135-b869-4b7aab2c5c14@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b38bc": {
+      "importer": "gltf-scene",
+      "uuid": "3ecf78b5-976a-4135-b869-4b7aab2c5c14@b38bc",
+      "displayName": "",
+      "id": "b38bc",
+      "name": "SM_Prop_Ladder_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "uri": "3ecf78b5-976a-4135-b869-4b7aab2c5c14@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "3ecf78b5-976a-4135-b869-4b7aab2c5c14@b38bc",
+    "assetFinder": {
+      "meshes": [
+        "3ecf78b5-976a-4135-b869-4b7aab2c5c14@b887c"
+      ],
+      "skeletons": [],
+      "textures": [
+        "3ecf78b5-976a-4135-b869-4b7aab2c5c14@ae3ea"
+      ],
+      "materials": [
+        "3ecf78b5-976a-4135-b869-4b7aab2c5c14@48f8a"
+      ],
+      "scenes": [
+        "3ecf78b5-976a-4135-b869-4b7aab2c5c14@b38bc"
+      ]
+    }
+  }
+}

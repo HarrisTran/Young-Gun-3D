@@ -1,0 +1,126 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "326e6634-a04e-435d-af31-4c90e888b982",
+  "files": [],
+  "subMetas": {
+    "68ef5": {
+      "importer": "gltf-mesh",
+      "uuid": "326e6634-a04e-435d-af31-4c90e888b982@68ef5",
+      "displayName": "",
+      "id": "68ef5",
+      "name": "SM_Prop_Tnt_Bundle_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "326e6634-a04e-435d-af31-4c90e888b982@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "326e6634-a04e-435d-af31-4c90e888b982@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_01_B.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "326e6634-a04e-435d-af31-4c90e888b982@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "401df": {
+      "importer": "gltf-scene",
+      "uuid": "326e6634-a04e-435d-af31-4c90e888b982@401df",
+      "displayName": "",
+      "id": "401df",
+      "name": "SM_Prop_Tnt_Bundle_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "remap": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_01_B.png",
+        "uri": "326e6634-a04e-435d-af31-4c90e888b982@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "326e6634-a04e-435d-af31-4c90e888b982@401df",
+    "assetFinder": {
+      "meshes": [
+        "326e6634-a04e-435d-af31-4c90e888b982@68ef5"
+      ],
+      "skeletons": [],
+      "textures": [
+        "326e6634-a04e-435d-af31-4c90e888b982@ae3ea"
+      ],
+      "materials": [
+        "326e6634-a04e-435d-af31-4c90e888b982@48f8a"
+      ],
+      "scenes": [
+        "326e6634-a04e-435d-af31-4c90e888b982@401df"
+      ]
+    }
+  }
+}

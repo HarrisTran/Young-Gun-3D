@@ -1,0 +1,125 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "3b185cf0-7829-4b60-8a10-b85eecfd7986",
+  "files": [],
+  "subMetas": {
+    "ed135": {
+      "importer": "gltf-mesh",
+      "uuid": "3b185cf0-7829-4b60-8a10-b85eecfd7986@ed135",
+      "displayName": "",
+      "id": "ed135",
+      "name": "SM_Env_Mine_Tunnel_Rocks_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "3b185cf0-7829-4b60-8a10-b85eecfd7986@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "3b185cf0-7829-4b60-8a10-b85eecfd7986@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "3b185cf0-7829-4b60-8a10-b85eecfd7986@d63f7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "3b185cf0-7829-4b60-8a10-b85eecfd7986@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "31abe": {
+      "importer": "gltf-scene",
+      "uuid": "3b185cf0-7829-4b60-8a10-b85eecfd7986@31abe",
+      "displayName": "",
+      "id": "31abe",
+      "name": "SM_Env_Mine_Tunnel_Rocks_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "uri": "3b185cf0-7829-4b60-8a10-b85eecfd7986@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "3b185cf0-7829-4b60-8a10-b85eecfd7986@31abe",
+    "assetFinder": {
+      "meshes": [
+        "3b185cf0-7829-4b60-8a10-b85eecfd7986@ed135"
+      ],
+      "skeletons": [],
+      "textures": [
+        "3b185cf0-7829-4b60-8a10-b85eecfd7986@ae3ea"
+      ],
+      "materials": [
+        "3b185cf0-7829-4b60-8a10-b85eecfd7986@48f8a"
+      ],
+      "scenes": [
+        "3b185cf0-7829-4b60-8a10-b85eecfd7986@31abe"
+      ]
+    }
+  }
+}

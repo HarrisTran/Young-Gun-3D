@@ -1,0 +1,143 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "2fc18d95-3ba3-41ed-90a5-2d684686cdd0",
+  "files": [],
+  "subMetas": {
+    "b93dd": {
+      "importer": "gltf-mesh",
+      "uuid": "2fc18d95-3ba3-41ed-90a5-2d684686cdd0@b93dd",
+      "displayName": "",
+      "id": "b93dd",
+      "name": "SM_Wep_Sword_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b6f56": {
+      "importer": "gltf-mesh",
+      "uuid": "2fc18d95-3ba3-41ed-90a5-2d684686cdd0@b6f56",
+      "displayName": "",
+      "id": "b6f56",
+      "name": "SM_Wep_Sword_Scabbard_01.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "2fc18d95-3ba3-41ed-90a5-2d684686cdd0@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "2fc18d95-3ba3-41ed-90a5-2d684686cdd0@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "2fc18d95-3ba3-41ed-90a5-2d684686cdd0@d63f7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "2fc18d95-3ba3-41ed-90a5-2d684686cdd0@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fa9e0": {
+      "importer": "gltf-scene",
+      "uuid": "2fc18d95-3ba3-41ed-90a5-2d684686cdd0@fa9e0",
+      "displayName": "",
+      "id": "fa9e0",
+      "name": "SM_Wep_Sword_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "uri": "2fc18d95-3ba3-41ed-90a5-2d684686cdd0@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "2fc18d95-3ba3-41ed-90a5-2d684686cdd0@fa9e0",
+    "assetFinder": {
+      "meshes": [
+        "2fc18d95-3ba3-41ed-90a5-2d684686cdd0@b93dd",
+        "2fc18d95-3ba3-41ed-90a5-2d684686cdd0@b6f56"
+      ],
+      "skeletons": [],
+      "textures": [
+        "2fc18d95-3ba3-41ed-90a5-2d684686cdd0@ae3ea"
+      ],
+      "materials": [
+        "2fc18d95-3ba3-41ed-90a5-2d684686cdd0@48f8a"
+      ],
+      "scenes": [
+        "2fc18d95-3ba3-41ed-90a5-2d684686cdd0@fa9e0"
+      ]
+    }
+  }
+}

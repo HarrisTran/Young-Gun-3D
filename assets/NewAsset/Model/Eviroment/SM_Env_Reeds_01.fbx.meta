@@ -1,0 +1,125 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "fd2da234-26dd-4d4b-9149-a47de5997bdd",
+  "files": [],
+  "subMetas": {
+    "3347c": {
+      "importer": "gltf-mesh",
+      "uuid": "fd2da234-26dd-4d4b-9149-a47de5997bdd@3347c",
+      "displayName": "",
+      "id": "3347c",
+      "name": "SM_Env_Reeds_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "fd2da234-26dd-4d4b-9149-a47de5997bdd@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "fd2da234-26dd-4d4b-9149-a47de5997bdd@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "fd2da234-26dd-4d4b-9149-a47de5997bdd@d63f7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "fd2da234-26dd-4d4b-9149-a47de5997bdd@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "64b66": {
+      "importer": "gltf-scene",
+      "uuid": "fd2da234-26dd-4d4b-9149-a47de5997bdd@64b66",
+      "displayName": "",
+      "id": "64b66",
+      "name": "SM_Env_Reeds_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "uri": "fd2da234-26dd-4d4b-9149-a47de5997bdd@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "fd2da234-26dd-4d4b-9149-a47de5997bdd@64b66",
+    "assetFinder": {
+      "meshes": [
+        "fd2da234-26dd-4d4b-9149-a47de5997bdd@3347c"
+      ],
+      "skeletons": [],
+      "textures": [
+        "fd2da234-26dd-4d4b-9149-a47de5997bdd@ae3ea"
+      ],
+      "materials": [
+        "fd2da234-26dd-4d4b-9149-a47de5997bdd@48f8a"
+      ],
+      "scenes": [
+        "fd2da234-26dd-4d4b-9149-a47de5997bdd@64b66"
+      ]
+    }
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "8dfb9877-d926-4ca5-b4c0-f66afcaedf50",
+  "files": [],
+  "subMetas": {
+    "03b10": {
+      "importer": "gltf-mesh",
+      "uuid": "8dfb9877-d926-4ca5-b4c0-f66afcaedf50@03b10",
+      "displayName": "",
+      "id": "03b10",
+      "name": "SK_Chr_Priest_Male_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "8dfb9877-d926-4ca5-b4c0-f66afcaedf50@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 48
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "8dfb9877-d926-4ca5-b4c0-f66afcaedf50@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "8dfb9877-d926-4ca5-b4c0-f66afcaedf50@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "8dfb9877-d926-4ca5-b4c0-f66afcaedf50@d63f7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "8dfb9877-d926-4ca5-b4c0-f66afcaedf50@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b45da": {
+      "importer": "gltf-scene",
+      "uuid": "8dfb9877-d926-4ca5-b4c0-f66afcaedf50@b45da",
+      "displayName": "",
+      "id": "b45da",
+      "name": "SK_Chr_Priest_Male_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "uri": "8dfb9877-d926-4ca5-b4c0-f66afcaedf50@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "8dfb9877-d926-4ca5-b4c0-f66afcaedf50@b45da",
+    "assetFinder": {
+      "meshes": [
+        "8dfb9877-d926-4ca5-b4c0-f66afcaedf50@03b10"
+      ],
+      "skeletons": [
+        "8dfb9877-d926-4ca5-b4c0-f66afcaedf50@438fe"
+      ],
+      "textures": [
+        "8dfb9877-d926-4ca5-b4c0-f66afcaedf50@ae3ea"
+      ],
+      "materials": [
+        "8dfb9877-d926-4ca5-b4c0-f66afcaedf50@48f8a"
+      ],
+      "scenes": [
+        "8dfb9877-d926-4ca5-b4c0-f66afcaedf50@b45da"
+      ]
+    }
+  }
+}

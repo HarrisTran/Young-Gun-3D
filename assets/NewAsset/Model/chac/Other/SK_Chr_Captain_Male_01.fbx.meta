@@ -1,0 +1,144 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "ad6af8c5-094e-4a0e-9a2f-18dbb48af781",
+  "files": [],
+  "subMetas": {
+    "a29e9": {
+      "importer": "gltf-mesh",
+      "uuid": "ad6af8c5-094e-4a0e-9a2f-18dbb48af781@a29e9",
+      "displayName": "",
+      "id": "a29e9",
+      "name": "SK_Chr_Captain_Male_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "ad6af8c5-094e-4a0e-9a2f-18dbb48af781@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 48
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "ad6af8c5-094e-4a0e-9a2f-18dbb48af781@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "ad6af8c5-094e-4a0e-9a2f-18dbb48af781@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "ad6af8c5-094e-4a0e-9a2f-18dbb48af781@d63f7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "ad6af8c5-094e-4a0e-9a2f-18dbb48af781@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7b4a1": {
+      "importer": "gltf-scene",
+      "uuid": "ad6af8c5-094e-4a0e-9a2f-18dbb48af781@7b4a1",
+      "displayName": "",
+      "id": "7b4a1",
+      "name": "SK_Chr_Captain_Male_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "uri": "ad6af8c5-094e-4a0e-9a2f-18dbb48af781@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "ad6af8c5-094e-4a0e-9a2f-18dbb48af781@7b4a1",
+    "assetFinder": {
+      "meshes": [
+        "ad6af8c5-094e-4a0e-9a2f-18dbb48af781@a29e9"
+      ],
+      "skeletons": [
+        "ad6af8c5-094e-4a0e-9a2f-18dbb48af781@438fe"
+      ],
+      "textures": [
+        "ad6af8c5-094e-4a0e-9a2f-18dbb48af781@ae3ea"
+      ],
+      "materials": [
+        "ad6af8c5-094e-4a0e-9a2f-18dbb48af781@48f8a"
+      ],
+      "scenes": [
+        "ad6af8c5-094e-4a0e-9a2f-18dbb48af781@7b4a1"
+      ]
+    }
+  }
+}

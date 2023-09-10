@@ -1,0 +1,126 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "43c97f2f-a2bd-4fc1-a74a-2c6aff2eed90",
+  "files": [],
+  "subMetas": {
+    "e2c43": {
+      "importer": "gltf-mesh",
+      "uuid": "43c97f2f-a2bd-4fc1-a74a-2c6aff2eed90@e2c43",
+      "displayName": "",
+      "id": "e2c43",
+      "name": "SM_Prop_SkinRack_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "43c97f2f-a2bd-4fc1-a74a-2c6aff2eed90@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "43c97f2f-a2bd-4fc1-a74a-2c6aff2eed90@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_01_B.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "43c97f2f-a2bd-4fc1-a74a-2c6aff2eed90@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "536a3": {
+      "importer": "gltf-scene",
+      "uuid": "43c97f2f-a2bd-4fc1-a74a-2c6aff2eed90@536a3",
+      "displayName": "",
+      "id": "536a3",
+      "name": "SM_Prop_SkinRack_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "remap": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_01_B.png",
+        "uri": "43c97f2f-a2bd-4fc1-a74a-2c6aff2eed90@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "43c97f2f-a2bd-4fc1-a74a-2c6aff2eed90@536a3",
+    "assetFinder": {
+      "meshes": [
+        "43c97f2f-a2bd-4fc1-a74a-2c6aff2eed90@e2c43"
+      ],
+      "skeletons": [],
+      "textures": [
+        "43c97f2f-a2bd-4fc1-a74a-2c6aff2eed90@ae3ea"
+      ],
+      "materials": [
+        "43c97f2f-a2bd-4fc1-a74a-2c6aff2eed90@48f8a"
+      ],
+      "scenes": [
+        "43c97f2f-a2bd-4fc1-a74a-2c6aff2eed90@536a3"
+      ]
+    }
+  }
+}

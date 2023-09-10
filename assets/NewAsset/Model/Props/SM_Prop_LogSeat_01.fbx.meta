@@ -1,0 +1,125 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "f50593bb-605b-4827-ad32-f2571a33b1dd",
+  "files": [],
+  "subMetas": {
+    "23c26": {
+      "importer": "gltf-mesh",
+      "uuid": "f50593bb-605b-4827-ad32-f2571a33b1dd@23c26",
+      "displayName": "",
+      "id": "23c26",
+      "name": "SM_Prop_LogSeat_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "f50593bb-605b-4827-ad32-f2571a33b1dd@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "f50593bb-605b-4827-ad32-f2571a33b1dd@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "f50593bb-605b-4827-ad32-f2571a33b1dd@d63f7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "f50593bb-605b-4827-ad32-f2571a33b1dd@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a4a7c": {
+      "importer": "gltf-scene",
+      "uuid": "f50593bb-605b-4827-ad32-f2571a33b1dd@a4a7c",
+      "displayName": "",
+      "id": "a4a7c",
+      "name": "SM_Prop_LogSeat_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "uri": "f50593bb-605b-4827-ad32-f2571a33b1dd@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "f50593bb-605b-4827-ad32-f2571a33b1dd@a4a7c",
+    "assetFinder": {
+      "meshes": [
+        "f50593bb-605b-4827-ad32-f2571a33b1dd@23c26"
+      ],
+      "skeletons": [],
+      "textures": [
+        "f50593bb-605b-4827-ad32-f2571a33b1dd@ae3ea"
+      ],
+      "materials": [
+        "f50593bb-605b-4827-ad32-f2571a33b1dd@48f8a"
+      ],
+      "scenes": [
+        "f50593bb-605b-4827-ad32-f2571a33b1dd@a4a7c"
+      ]
+    }
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "ea035aff-7eb2-434a-bcf5-27ed413f6009",
+  "files": [],
+  "subMetas": {
+    "62064": {
+      "importer": "gltf-mesh",
+      "uuid": "ea035aff-7eb2-434a-bcf5-27ed413f6009@62064",
+      "displayName": "",
+      "id": "62064",
+      "name": "SM_Env_Mine_Track_Curved_02.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "ea035aff-7eb2-434a-bcf5-27ed413f6009@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "ea035aff-7eb2-434a-bcf5-27ed413f6009@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "ea035aff-7eb2-434a-bcf5-27ed413f6009@d63f7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "ea035aff-7eb2-434a-bcf5-27ed413f6009@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0a3b8": {
+      "importer": "gltf-scene",
+      "uuid": "ea035aff-7eb2-434a-bcf5-27ed413f6009@0a3b8",
+      "displayName": "",
+      "id": "0a3b8",
+      "name": "SM_Env_Mine_Track_Curved_02.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "uri": "ea035aff-7eb2-434a-bcf5-27ed413f6009@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "ea035aff-7eb2-434a-bcf5-27ed413f6009@0a3b8",
+    "assetFinder": {
+      "meshes": [
+        "ea035aff-7eb2-434a-bcf5-27ed413f6009@62064"
+      ],
+      "skeletons": [],
+      "textures": [
+        "ea035aff-7eb2-434a-bcf5-27ed413f6009@ae3ea"
+      ],
+      "materials": [
+        "ea035aff-7eb2-434a-bcf5-27ed413f6009@48f8a"
+      ],
+      "scenes": [
+        "ea035aff-7eb2-434a-bcf5-27ed413f6009@0a3b8"
+      ]
+    }
+  }
+}

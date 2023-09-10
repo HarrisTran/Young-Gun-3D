@@ -1,0 +1,161 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "86781137-d2e2-4773-91ca-fad9538fe824",
+  "files": [],
+  "subMetas": {
+    "8e0ae": {
+      "importer": "gltf-mesh",
+      "uuid": "86781137-d2e2-4773-91ca-fad9538fe824@8e0ae",
+      "displayName": "",
+      "id": "8e0ae",
+      "name": "SM_Prop_FlagPole_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ee8c7": {
+      "importer": "gltf-mesh",
+      "uuid": "86781137-d2e2-4773-91ca-fad9538fe824@ee8c7",
+      "displayName": "",
+      "id": "ee8c7",
+      "name": "SM_Prop_Flag_Confederate_01.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ec9ed": {
+      "importer": "gltf-mesh",
+      "uuid": "86781137-d2e2-4773-91ca-fad9538fe824@ec9ed",
+      "displayName": "",
+      "id": "ec9ed",
+      "name": "SM_Prop_Flag_USA_01.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "86781137-d2e2-4773-91ca-fad9538fe824@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "86781137-d2e2-4773-91ca-fad9538fe824@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "86781137-d2e2-4773-91ca-fad9538fe824@d63f7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "86781137-d2e2-4773-91ca-fad9538fe824@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0223f": {
+      "importer": "gltf-scene",
+      "uuid": "86781137-d2e2-4773-91ca-fad9538fe824@0223f",
+      "displayName": "",
+      "id": "0223f",
+      "name": "SM_Prop_FlagPole_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "uri": "86781137-d2e2-4773-91ca-fad9538fe824@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "86781137-d2e2-4773-91ca-fad9538fe824@0223f",
+    "assetFinder": {
+      "meshes": [
+        "86781137-d2e2-4773-91ca-fad9538fe824@8e0ae",
+        "86781137-d2e2-4773-91ca-fad9538fe824@ee8c7",
+        "86781137-d2e2-4773-91ca-fad9538fe824@ec9ed"
+      ],
+      "skeletons": [],
+      "textures": [
+        "86781137-d2e2-4773-91ca-fad9538fe824@ae3ea"
+      ],
+      "materials": [
+        "86781137-d2e2-4773-91ca-fad9538fe824@48f8a"
+      ],
+      "scenes": [
+        "86781137-d2e2-4773-91ca-fad9538fe824@0223f"
+      ]
+    }
+  }
+}

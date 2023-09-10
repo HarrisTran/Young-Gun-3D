@@ -1,0 +1,125 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "9c2a498a-6252-4acf-a82d-bd27305eb514",
+  "files": [],
+  "subMetas": {
+    "28bf8": {
+      "importer": "gltf-mesh",
+      "uuid": "9c2a498a-6252-4acf-a82d-bd27305eb514@28bf8",
+      "displayName": "",
+      "id": "28bf8",
+      "name": "SM_Env_Tree_Desert_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "9c2a498a-6252-4acf-a82d-bd27305eb514@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "9c2a498a-6252-4acf-a82d-bd27305eb514@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "9c2a498a-6252-4acf-a82d-bd27305eb514@d63f7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "9c2a498a-6252-4acf-a82d-bd27305eb514@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "09814": {
+      "importer": "gltf-scene",
+      "uuid": "9c2a498a-6252-4acf-a82d-bd27305eb514@09814",
+      "displayName": "",
+      "id": "09814",
+      "name": "SM_Env_Tree_Desert_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "uri": "9c2a498a-6252-4acf-a82d-bd27305eb514@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "9c2a498a-6252-4acf-a82d-bd27305eb514@09814",
+    "assetFinder": {
+      "meshes": [
+        "9c2a498a-6252-4acf-a82d-bd27305eb514@28bf8"
+      ],
+      "skeletons": [],
+      "textures": [
+        "9c2a498a-6252-4acf-a82d-bd27305eb514@ae3ea"
+      ],
+      "materials": [
+        "9c2a498a-6252-4acf-a82d-bd27305eb514@48f8a"
+      ],
+      "scenes": [
+        "9c2a498a-6252-4acf-a82d-bd27305eb514@09814"
+      ]
+    }
+  }
+}

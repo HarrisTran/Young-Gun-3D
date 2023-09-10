@@ -1,0 +1,125 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "14b5ab1c-eecd-4e57-964b-6ff9120a1fef",
+  "files": [],
+  "subMetas": {
+    "c6cbd": {
+      "importer": "gltf-mesh",
+      "uuid": "14b5ab1c-eecd-4e57-964b-6ff9120a1fef@c6cbd",
+      "displayName": "",
+      "id": "c6cbd",
+      "name": "SM_Env_Bush_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "14b5ab1c-eecd-4e57-964b-6ff9120a1fef@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "14b5ab1c-eecd-4e57-964b-6ff9120a1fef@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "14b5ab1c-eecd-4e57-964b-6ff9120a1fef@d63f7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "14b5ab1c-eecd-4e57-964b-6ff9120a1fef@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "49c3e": {
+      "importer": "gltf-scene",
+      "uuid": "14b5ab1c-eecd-4e57-964b-6ff9120a1fef@49c3e",
+      "displayName": "",
+      "id": "49c3e",
+      "name": "SM_Env_Bush_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "uri": "14b5ab1c-eecd-4e57-964b-6ff9120a1fef@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "14b5ab1c-eecd-4e57-964b-6ff9120a1fef@49c3e",
+    "assetFinder": {
+      "meshes": [
+        "14b5ab1c-eecd-4e57-964b-6ff9120a1fef@c6cbd"
+      ],
+      "skeletons": [],
+      "textures": [
+        "14b5ab1c-eecd-4e57-964b-6ff9120a1fef@ae3ea"
+      ],
+      "materials": [
+        "14b5ab1c-eecd-4e57-964b-6ff9120a1fef@48f8a"
+      ],
+      "scenes": [
+        "14b5ab1c-eecd-4e57-964b-6ff9120a1fef@49c3e"
+      ]
+    }
+  }
+}

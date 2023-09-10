@@ -1,0 +1,161 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "b2ef8f0d-ebfb-422a-99c4-eaf80d8beea9",
+  "files": [],
+  "subMetas": {
+    "04c6f": {
+      "importer": "gltf-mesh",
+      "uuid": "b2ef8f0d-ebfb-422a-99c4-eaf80d8beea9@04c6f",
+      "displayName": "",
+      "id": "04c6f",
+      "name": "SM_Prop_GoldPan_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4f071": {
+      "importer": "gltf-mesh",
+      "uuid": "b2ef8f0d-ebfb-422a-99c4-eaf80d8beea9@4f071",
+      "displayName": "",
+      "id": "4f071",
+      "name": "SM_Prop_GoldPan_Dirt_01.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9e5d2": {
+      "importer": "gltf-mesh",
+      "uuid": "b2ef8f0d-ebfb-422a-99c4-eaf80d8beea9@9e5d2",
+      "displayName": "",
+      "id": "9e5d2",
+      "name": "SM_Prop_GoldPan_Nugget_01.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "b2ef8f0d-ebfb-422a-99c4-eaf80d8beea9@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "b2ef8f0d-ebfb-422a-99c4-eaf80d8beea9@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "b2ef8f0d-ebfb-422a-99c4-eaf80d8beea9@d63f7"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "b2ef8f0d-ebfb-422a-99c4-eaf80d8beea9@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b9cd2": {
+      "importer": "gltf-scene",
+      "uuid": "b2ef8f0d-ebfb-422a-99c4-eaf80d8beea9@b9cd2",
+      "displayName": "",
+      "id": "b9cd2",
+      "name": "SM_Prop_GoldPan_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "uri": "b2ef8f0d-ebfb-422a-99c4-eaf80d8beea9@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "b2ef8f0d-ebfb-422a-99c4-eaf80d8beea9@b9cd2",
+    "assetFinder": {
+      "meshes": [
+        "b2ef8f0d-ebfb-422a-99c4-eaf80d8beea9@04c6f",
+        "b2ef8f0d-ebfb-422a-99c4-eaf80d8beea9@4f071",
+        "b2ef8f0d-ebfb-422a-99c4-eaf80d8beea9@9e5d2"
+      ],
+      "skeletons": [],
+      "textures": [
+        "b2ef8f0d-ebfb-422a-99c4-eaf80d8beea9@ae3ea"
+      ],
+      "materials": [
+        "b2ef8f0d-ebfb-422a-99c4-eaf80d8beea9@48f8a"
+      ],
+      "scenes": [
+        "b2ef8f0d-ebfb-422a-99c4-eaf80d8beea9@b9cd2"
+      ]
+    }
+  }
+}

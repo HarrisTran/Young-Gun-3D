@@ -1,0 +1,187 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "c4f0825c-7d61-4b30-b295-f38db504d6cf",
+  "files": [],
+  "subMetas": {
+    "525a6": {
+      "importer": "gltf-mesh",
+      "uuid": "c4f0825c-7d61-4b30-b295-f38db504d6cf@525a6",
+      "displayName": "",
+      "id": "525a6",
+      "name": "SM_Env_Cactus_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "c4f0825c-7d61-4b30-b295-f38db504d6cf@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "c4f0825c-7d61-4b30-b295-f38db504d6cf@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_01_B.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "c4f0825c-7d61-4b30-b295-f38db504d6cf@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "caabf": {
+      "importer": "gltf-scene",
+      "uuid": "c4f0825c-7d61-4b30-b295-f38db504d6cf@caabf",
+      "displayName": "",
+      "id": "caabf",
+      "name": "SM_Env_Cactus_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "remap": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_01_B.png",
+        "uri": "c4f0825c-7d61-4b30-b295-f38db504d6cf@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "c4f0825c-7d61-4b30-b295-f38db504d6cf@caabf",
+    "assetFinder": {
+      "meshes": [
+        "c4f0825c-7d61-4b30-b295-f38db504d6cf@525a6"
+      ],
+      "skeletons": [],
+      "textures": [
+        "c4f0825c-7d61-4b30-b295-f38db504d6cf@ae3ea"
+      ],
+      "materials": [
+        "c4f0825c-7d61-4b30-b295-f38db504d6cf@48f8a"
+      ],
+      "scenes": [
+        "c4f0825c-7d61-4b30-b295-f38db504d6cf@caabf"
+      ]
+    },
+    "materials": {
+      "c4f0825c-7d61-4b30-b295-f38db504d6cf@48f8a": {
+        "__type__": "cc.Material",
+        "_name": "",
+        "_objFlags": 0,
+        "_native": "",
+        "_effectAsset": {
+          "__uuid__": "f648964e-8d32-41fc-9ac9-7a1e714dd17b",
+          "__expectedType__": "cc.EffectAsset"
+        },
+        "_techIdx": 0,
+        "_defines": [
+          {
+            "DCC_APP_NAME": 5,
+            "USE_ALBEDO_MAP": true
+          },
+          {},
+          {}
+        ],
+        "_states": [
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          }
+        ],
+        "_props": [
+          {
+            "mainTexture": {
+              "__uuid__": "c4f0825c-7d61-4b30-b295-f38db504d6cf@ae3ea",
+              "__expectedType__": "cc.Texture2D"
+            },
+            "albedoScale": 0.800000011920929
+          },
+          {},
+          {}
+        ]
+      }
+    }
+  }
+}

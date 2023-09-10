@@ -1,0 +1,126 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "33d80871-283a-4073-8ed6-f189f2cd2aee",
+  "files": [],
+  "subMetas": {
+    "fc763": {
+      "importer": "gltf-mesh",
+      "uuid": "33d80871-283a-4073-8ed6-f189f2cd2aee@fc763",
+      "displayName": "",
+      "id": "fc763",
+      "name": "SM_Prop_Barrel_Dirt_01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d63f7": {
+      "importer": "gltf-embeded-image",
+      "uuid": "33d80871-283a-4073-8ed6-f189f2cd2aee@d63f7",
+      "displayName": "",
+      "id": "d63f7",
+      "name": "file784.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "ae3ea": {
+      "importer": "texture",
+      "uuid": "33d80871-283a-4073-8ed6-f189f2cd2aee@ae3ea",
+      "displayName": "",
+      "id": "ae3ea",
+      "name": "file784.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_01_A.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48f8a": {
+      "importer": "gltf-material",
+      "uuid": "33d80871-283a-4073-8ed6-f189f2cd2aee@48f8a",
+      "displayName": "",
+      "id": "48f8a",
+      "name": "Frontier.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "11a49": {
+      "importer": "gltf-scene",
+      "uuid": "33d80871-283a-4073-8ed6-f189f2cd2aee@11a49",
+      "displayName": "",
+      "id": "11a49",
+      "name": "SM_Prop_Barrel_Dirt_01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "file784",
+        "remap": "db://assets/NewAsset/Texture/PolygonWesternFrontier_Texture_01_A.png",
+        "uri": "33d80871-283a-4073-8ed6-f189f2cd2aee@d63f7"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "33d80871-283a-4073-8ed6-f189f2cd2aee@11a49",
+    "assetFinder": {
+      "meshes": [
+        "33d80871-283a-4073-8ed6-f189f2cd2aee@fc763"
+      ],
+      "skeletons": [],
+      "textures": [
+        "33d80871-283a-4073-8ed6-f189f2cd2aee@ae3ea"
+      ],
+      "materials": [
+        "33d80871-283a-4073-8ed6-f189f2cd2aee@48f8a"
+      ],
+      "scenes": [
+        "33d80871-283a-4073-8ed6-f189f2cd2aee@11a49"
+      ]
+    }
+  }
+}
